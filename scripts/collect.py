@@ -70,6 +70,32 @@ def floor_value(text):
   if re.search(r'\b'+w+r'\s+etage',t):return n
  return None
 
+def publication_date(page, apartment):
+ # Only explicit publication fields; image paths, modified dates and crawl dates are not publication dates.
+ candidates=[]
+ for key in ('datePosted','datePublished'):
+  if apartment.get(key):candidates.append((apartment[key], 'annonce.'+key))
+ for doc in page.docs:
+  roots=doc if isinstance(doc,list) else [doc]
+  for node in roots:
+   if not isinstance(node,dict):continue
+   for item in [node]+(node.get('@graph',[]) if isinstance(node.get('@graph'),list) else []):
+    if isinstance(item,dict) and any(typed(item,t) for t in ('RealEstateListing','WebPage')):
+     for key in ('datePosted','datePublished'):
+      if item.get(key):candidates.append((item[key],'page.'+key))
+ for key in ('article:published_time','datePublished','dateposted'):
+  if page.meta.get(key):candidates.append((page.meta[key],'meta.'+key))
+ for match in re.finditer(r'(?:mise en ligne|publiee?|ajoutee?)\s+le\s+(\d{2})[/.](\d{2})[/.](\d{4})',normal(page.text)):
+  candidates.append((match[3]+'-'+match[2]+'-'+match[1],'libelle de publication'))
+ today=datetime.datetime.now(datetime.timezone.utc).date()
+ for value,evidence in candidates:
+  value=str(value).strip()
+  if not re.match(r'^\d{4}-\d{2}-\d{2}(?:T|$)',value):continue
+  try:day=datetime.date.fromisoformat(value[:10])
+  except ValueError:continue
+  if datetime.date(2000,1,1)<=day<=today:return day.isoformat(),evidence
+ return None,None
+
 def parse_listing(s,url,key,agency):
  p=Page(s);ns=list(nodes(p.docs));flat=p.text;norm=normal(flat)
  apartments=[n for n in ns if typed(n,'Apartment')]
@@ -89,6 +115,7 @@ def parse_listing(s,url,key,agency):
   full=full.split(end)[0]
  if not full:full=a.get('description','')
  t=normal(full)
+ publishedAt,publicationEvidence=publication_date(p,a)
  center=bool(re.search(r'\bhyper[- ]?centre\b|(?:en plein|en|du|le|au)\s+(?:coeur|cœur)\s+(?:de|du)\s+(?:centre|granville)|(?:situe|situee|situes|situees|en|plein)\s+(?:en\s+)?centre[- ]ville|cours jonville|rue couraye|au coeur du quartier historique',t))
  renovate=bool(re.search(r'a renover|renovation (?:complete|totale|a prevoir)|travaux (?:a prevoir|de renovation)|a rafraichir|rafraichissement (?:a prevoir|necessaire)',t))
  good=bool(re.search(r'sans travaux|aucun travaux|entierement renove|entierement refait|en bon etat',t))
@@ -125,7 +152,7 @@ def parse_listing(s,url,key,agency):
  if occupied:risks.append('Occupation annoncée : vérifier le bail et la disponibilité pour travaux.')
  areaWarning=None
  if key=='century' and abs(area-(number(a.get('floorSize',{}).get('value')) or area))>.1:risks.append('Surface précise du titre différente de la surface arrondie des données structurées : mesurage à vérifier.')
- return dict(id=key+'-'+hashlib.sha256(url.encode()).hexdigest()[:12],title=f'{int(rooms)} pièces · {area:g} m² à Granville',area=area,rooms=int(rooms),bedrooms=a.get('numberOfBedrooms'),floor=floor,price=price,zone='Centre annoncé' if center else 'Granville · secteur à confirmer',center=center,condition=condition,dpe=dpe,agency=agency,ref=ref,charges=charges,tax=tax,ownerCharges=max(350,(charges or 0)*.4),works=works,rent=rent,occupied=occupied,source=url,photo=photo,description=f'Appartement de {area:g} m² et {int(rooms)} pièces à Granville. '+('Rénovation annoncée. ' if renovate else '')+('Bien annoncé vendu loué. ' if occupied else '')+'Caractéristiques extraites de la fiche de l’agence ; les montants de travaux et de loyer sont des hypothèses de simulation.',assets=assets,risks=risks,priority=5 if center and floor and renovate else 20,archived=False,checked=datetime.datetime.now(datetime.timezone.utc).date().isoformat(),automated=True,estimateBasis='Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.')
+ return dict(publishedAt=publishedAt,publicationEvidence={'source':url,'field':publicationEvidence} if publicationEvidence else None,id=key+'-'+hashlib.sha256(url.encode()).hexdigest()[:12],title=f'{int(rooms)} pièces · {area:g} m² à Granville',area=area,rooms=int(rooms),bedrooms=a.get('numberOfBedrooms'),floor=floor,price=price,zone='Centre annoncé' if center else 'Granville · secteur à confirmer',center=center,condition=condition,dpe=dpe,agency=agency,ref=ref,charges=charges,tax=tax,ownerCharges=max(350,(charges or 0)*.4),works=works,rent=rent,occupied=occupied,source=url,photo=photo,description=f'Appartement de {area:g} m² et {int(rooms)} pièces à Granville. '+('Rénovation annoncée. ' if renovate else '')+('Bien annoncé vendu loué. ' if occupied else '')+'Caractéristiques extraites de la fiche de l’agence ; les montants de travaux et de loyer sont des hypothèses de simulation.',assets=assets,risks=risks,priority=5 if center and floor and renovate else 20,archived=False,checked=datetime.datetime.now(datetime.timezone.utc).date().isoformat(),automated=True,estimateBasis='Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.')
 
 def collect_source(spec):
  key,agency,root,detailpattern=spec;report={'id':key,'name':agency,'url':root,'status':'error','checked':0,'discovered':0,'errors':0};listings=[]

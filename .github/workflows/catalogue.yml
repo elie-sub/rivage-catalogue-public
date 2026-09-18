@@ -27,6 +27,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Vérifier les dates et les doublons
+        run: npm test
       - name: Collecter les annonces
         if: ${{ !inputs.publish_only }}
         id: collection
