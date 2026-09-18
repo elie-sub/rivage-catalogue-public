@@ -1,0 +1,57 @@
+name: Actualiser le catalogue public
+on:
+  schedule:
+    - cron: '0 7,8 * * *'
+  workflow_dispatch:
+    inputs:
+      publish_only:
+        description: Publier la collecte déjà vérifiée
+        type: boolean
+        default: false
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: catalogue-public
+  cancel-in-progress: false
+jobs:
+  catalogue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Collecter les annonces
+        if: ${{ !inputs.publish_only }}
+        id: collection
+        continue-on-error: true
+        run: node scripts/update.mjs
+      - name: Conserver la dernière collecte
+        run: |
+          git config user.name 'rivage-catalogue[bot]'
+          git config user.email 'rivage-catalogue@users.noreply.github.com'
+          git add data/catalog.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Actualiser les annonces publiques'
+            git push origin HEAD:main
+          fi
+      - name: Préparer le catalogue public
+        run: |
+          mkdir public
+          cp data/catalog.json public/catalog.json
+          printf '%s' '<!doctype html><html lang="fr"><meta charset="utf-8"><title>Rivage — catalogue</title><p>Catalogue public des annonces de Granville. Disponibilité à confirmer.</p></html>' > public/index.html
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - uses: actions/deploy-pages@v4
+        id: deployment
+      - name: Signaler une collecte échouée
+        if: ${{ steps.collection.outcome == 'failure' }}
+        run: exit 1
