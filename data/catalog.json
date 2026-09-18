@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T16:24:31.614Z",
-  "lastAttemptAt": "2026-09-18T16:24:31.614Z",
+  "updatedAt": "2026-09-18T20:58:22.902Z",
+  "lastAttemptAt": "2026-09-18T20:58:22.902Z",
   "sources": [
     {
       "id": "pozzo",
@@ -84,6 +84,8 @@
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-25",
       "title": "Un premier pied-à-terre en centre-ville",
       "area": 26,
@@ -121,14 +123,18 @@
       "automated": false,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/13996407563",
-        "https://www.ouestfrance-immo.com/immobilier/vente/appartement/granville-50-50218/2-pieces-20430840.htm"
+        "https://century21-royer-granville.com/trouver_logement/detail/13996407563",
+        "https://ouestfrance-immo.com/immobilier/vente/appartement/granville-50-50218/2-pieces-20430840.htm"
       ],
       "firstSeenAt": "2026-09-17",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-47",
       "title": "Entre le port et la plage",
       "area": 47,
@@ -167,15 +173,19 @@
       "automated": false,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-granville-47m2/r2017509"
+        "https://iadfrance.fr/annonce/appartement-vente-2-pieces-granville-47m2/r2017509"
       ],
       "firstSeenAt": "2026-09-17",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-c3c4253ad37e"
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-17",
       "title": "Sous les toits de l’hypercentre",
       "area": 17,
@@ -212,9 +222,11 @@
       "automated": false,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-1-piece-au-coeur-de-granville/49537"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-1-piece-au-coeur-de-granville/49537"
       ],
       "firstSeenAt": "2026-09-17",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
@@ -257,6 +269,8 @@
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-28",
       "title": "Un studio au dernier étage",
       "area": 28,
@@ -293,10 +307,12 @@
       "automated": false,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/studio-lumineux-au-dernier-etage-centre-de-granville/87671",
-        "https://www.ouestfrance-immo.com/immobilier/vente/appartement/granville-50-50218/studio-19758024.htm"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/studio-lumineux-au-dernier-etage-centre-de-granville/87671",
+        "https://ouestfrance-immo.com/immobilier/vente/appartement/granville-50-50218/studio-19758024.htm"
       ],
       "firstSeenAt": "2026-09-17",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
@@ -602,6 +618,8 @@
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-e558055c1b03",
       "title": "2 pièces · 28 m² à Granville",
       "area": 28,
@@ -638,13 +656,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-2-pieces-a-granville/47878"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-2-pieces-a-granville/47878"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-8df03331c3bf",
       "title": "3 pièces · 78 m² à Granville",
       "area": 78,
@@ -680,13 +702,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-centre-de-granville/65284"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-centre-de-granville/65284"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-8f1f6a03086d",
       "title": "3 pièces · 89 m² à Granville",
       "area": 89,
@@ -725,13 +751,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-granville-centre/115839"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-granville-centre/115839"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-d7a46566d5bf",
       "title": "3 pièces · 84 m² à Granville",
       "area": 84,
@@ -769,13 +799,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-granville-hyper-centre/91459"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-granville-hyper-centre/91459"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-47f61c981c2d",
       "title": "3 pièces · 108 m² à Granville",
       "area": 108,
@@ -814,13 +848,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-granville/87873"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-granville/87873"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-9685a7b0abd7",
       "title": "2 pièces · 33 m² à Granville",
       "area": 33,
@@ -856,13 +894,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-hypercentre-de-granville-50400/83045"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-appartement-hypercentre-de-granville-50400/83045"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-941d774b53e3",
       "title": "2 pièces · 29 m² à Granville",
       "area": 29,
@@ -898,13 +940,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-duplex-t2-hypercentre-de-granville-50400/101621"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-duplex-t2-hypercentre-de-granville-50400/101621"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-02e784f1c8a5",
       "title": "2 pièces · 23 m² à Granville",
       "area": 23,
@@ -940,9 +986,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-granville-50400-appartement-23-27m2-hypercentre/47060"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-granville-50400-appartement-23-27m2-hypercentre/47060"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-23"
@@ -950,6 +998,8 @@
       "duplicateCandidateOf": "pozzo-23"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-d8d69b25678b",
       "title": "1 pièces · 15 m² à Granville",
       "area": 15,
@@ -987,13 +1037,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-studio-vue-mer-a-granville-50400-ideal-investissement-locatif/69337"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-studio-vue-mer-a-granville-50400-ideal-investissement-locatif/69337"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-d58827b773d2",
       "title": "5 pièces · 114 m² à Granville",
       "area": 114,
@@ -1028,13 +1082,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-t5-114m2-centre-ville-de-granville-50400/107477"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/a-vendre-t5-114m2-centre-ville-de-granville-50400/107477"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-167b0913f9f8",
       "title": "2 pièces · 28 m² à Granville",
       "area": 28,
@@ -1071,15 +1129,19 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-2-pieces-a-vendre-a-granville/36490"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-2-pieces-a-vendre-a-granville/36490"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-65c41730b600"
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-1489c7cd69c3",
       "title": "2 pièces · 34 m² à Granville",
       "area": 34,
@@ -1116,13 +1178,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-2-pieces-a-vendre-a-granville/43775"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-2-pieces-a-vendre-a-granville/43775"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-ebc301a39254",
       "title": "3 pièces · 65 m² à Granville",
       "area": 65,
@@ -1158,13 +1224,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-3-pieces-65-m2-cadre-de-vie-agreable-a-granville/106626"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-3-pieces-65-m2-cadre-de-vie-agreable-a-granville/106626"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-4a6689b4b262",
       "title": "3 pièces · 61 m² à Granville",
       "area": 61,
@@ -1204,13 +1274,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-3-pieces-avec-jardin-expose-sud-granville-50400/39739"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-3-pieces-avec-jardin-expose-sud-granville-50400/39739"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-caad8d1bf411",
       "title": "3 pièces · 76 m² à Granville",
       "area": 76,
@@ -1247,15 +1321,19 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-3-pieces-avec-terrasse-granville/67534"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-3-pieces-avec-terrasse-granville/67534"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "century-56552664bc12"
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-875c59959cba",
       "title": "3 pièces · 61 m² à Granville",
       "area": 61,
@@ -1293,13 +1371,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-3-pieces-d-environ-60-m2-granville/112115"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-3-pieces-d-environ-60-m2-granville/112115"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-fa1a2fad2bd8",
       "title": "4 pièces · 74 m² à Granville",
       "area": 74,
@@ -1339,15 +1421,19 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-4-piece-s-74-m2-a-granville/114980"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-4-piece-s-74-m2-a-granville/114980"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "century-8f5f42d5b984"
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-3f45ce379481",
       "title": "4 pièces · 73 m² à Granville",
       "area": 73,
@@ -1386,13 +1472,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-4-pieces-73-m2-carrez-a-vendre-a-granville/47123"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-4-pieces-73-m2-carrez-a-vendre-a-granville/47123"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-e2ab03f356c7",
       "title": "2 pièces · 48 m² à Granville",
       "area": 48,
@@ -1430,9 +1520,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-48-m2-centre-ville-granville/112708"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-48-m2-centre-ville-granville/112708"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "laforet-48"
@@ -1440,6 +1532,8 @@
       "duplicateCandidateOf": "laforet-48"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-35946b0ee113",
       "title": "3 pièces · 63 m² à Granville",
       "area": 63,
@@ -1474,13 +1568,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-centre-ville-de-granville-3-piece-s-62-8-m2/49956"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-centre-ville-de-granville-3-piece-s-62-8-m2/49956"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-4a7e7440b30c",
       "title": "3 pièces · 60 m² à Granville",
       "area": 60,
@@ -1515,13 +1613,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-de-3-pieces-principales-60m2/108987"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-de-3-pieces-principales-60m2/108987"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-1eabf9681d19",
       "title": "2 pièces · 44 m² à Granville",
       "area": 44,
@@ -1556,15 +1658,19 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-duplex-vue-mer-au-coeur-de-la-vieille-ville-de-granville/107835"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-duplex-vue-mer-au-coeur-de-la-vieille-ville-de-granville/107835"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "century-61504f27362a"
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-59b4e0c5b38a",
       "title": "1 pièces · 27 m² à Granville",
       "area": 27,
@@ -1603,13 +1709,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-1-piece-s-27-m2/110941"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-1-piece-s-27-m2/110941"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-ec41468a2536",
       "title": "2 pièces · 48 m² à Granville",
       "area": 48,
@@ -1648,13 +1758,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-67-08m2-au-sol-soit-48-14m2-loi-carrez-terrasse/112105"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-67-08m2-au-sol-soit-48-14m2-loi-carrez-terrasse/112105"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-9ca310e1199c",
       "title": "2 pièces · 29 m² à Granville",
       "area": 29,
@@ -1691,13 +1805,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-27-30-m2/114177"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-27-30-m2/114177"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-4d2383498ef4",
       "title": "2 pièces · 35 m² à Granville",
       "area": 35,
@@ -1737,13 +1855,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-36-5-m2/67368"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-36-5-m2/67368"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-75ad15feba88",
       "title": "2 pièces · 42 m² à Granville",
       "area": 42,
@@ -1779,13 +1901,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-42-m2-hypercentre-plage-et-commerces/94408"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-42-m2-hypercentre-plage-et-commerces/94408"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-621c51e0d139",
       "title": "2 pièces · 44 m² à Granville",
       "area": 44,
@@ -1822,13 +1948,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-44-m2-avec-cour-privative-bien-exposee/58476"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-44-m2-avec-cour-privative-bien-exposee/58476"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-907a22f244ef",
       "title": "2 pièces · 48 m² à Granville",
       "area": 48,
@@ -1865,15 +1995,19 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-48-m2/114379"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-48-m2/114379"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "century-b7ce31a291d8"
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-151986984064",
       "title": "2 pièces · 52 m² à Granville",
       "area": 52,
@@ -1910,13 +2044,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-52m2/114176"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-52m2/114176"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-77f28d591ae2",
       "title": "2 pièces · 67 m² à Granville",
       "area": 67,
@@ -1954,13 +2092,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-66-71-m2/100240"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-66-71-m2/100240"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-ac4f0bdf3851",
       "title": "2 pièces · 45 m² à Granville",
       "area": 45,
@@ -1998,9 +2140,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-proche-plage-et-commerces/111394"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-piece-s-proche-plage-et-commerces/111394"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "century-9a7456be75c3",
@@ -2008,6 +2152,8 @@
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-f9fe6e166ddd",
       "title": "2 pièces · 18 m² à Granville",
       "area": 18,
@@ -2043,13 +2189,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-pieces-29-m2/88628"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-pieces-29-m2/88628"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-65c41730b600",
       "title": "2 pièces · 28 m² à Granville",
       "area": 28,
@@ -2087,9 +2237,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-pieces-d-une-surface-de-28-m2/112102"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-pieces-d-une-surface-de-28-m2/112102"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-167b0913f9f8"
@@ -2097,6 +2249,8 @@
       "duplicateCandidateOf": "pozzo-167b0913f9f8"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-ac99895e75ff",
       "title": "2 pièces · 24 m² à Granville",
       "area": 24,
@@ -2135,13 +2289,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-pieces-de-24m2-loi-carrez-52m2-utile/101950"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-pieces-de-24m2-loi-carrez-52m2-utile/101950"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-bff9fee61700",
       "title": "2 pièces · 40 m² à Granville",
       "area": 40,
@@ -2178,13 +2336,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-pieces-de-40-m2/99660"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-pieces-de-40-m2/99660"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-d245797d5792",
       "title": "2 pièces · 36 m² à Granville",
       "area": 36,
@@ -2220,13 +2382,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-pieces-proximite-plage-gare-et-commerces/112168"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-2-pieces-proximite-plage-gare-et-commerces/112168"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-58d994802299",
       "title": "3 pièces · 56 m² à Granville",
       "area": 56,
@@ -2265,15 +2431,19 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-56-38-m2-garage-et-cave/109229"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-56-38-m2-garage-et-cave/109229"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-5f21c63903c4"
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-488caf9c1e81",
       "title": "3 pièces · 57 m² à Granville",
       "area": 57,
@@ -2314,13 +2484,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-57-2-m2/81640"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-57-2-m2/81640"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-f83107f4466d",
       "title": "3 pièces · 65 m² à Granville",
       "area": 65,
@@ -2356,15 +2530,19 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-64-70-m2/108017"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-64-70-m2/108017"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-95620aeb863d"
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-95620aeb863d",
       "title": "3 pièces · 65 m² à Granville",
       "area": 65,
@@ -2402,9 +2580,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-65-m2-emplacement-plage-et-commerces-belles-prestations/86611"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-65-m2-emplacement-plage-et-commerces-belles-prestations/86611"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-f83107f4466d"
@@ -2412,6 +2592,8 @@
       "duplicateCandidateOf": "pozzo-f83107f4466d"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-2ef8e37f29ed",
       "title": "3 pièces · 74 m² à Granville",
       "area": 74,
@@ -2449,13 +2631,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-74-m2-mer-et-commerces-a-pieds/115919"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-74-m2-mer-et-commerces-a-pieds/115919"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-2dacaedc501f",
       "title": "3 pièces · 76 m² à Granville",
       "area": 76,
@@ -2496,13 +2682,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-77-m2-residence-avec-ascenseur-proche-commerces-et-plage/61576"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-77-m2-residence-avec-ascenseur-proche-commerces-et-plage/61576"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-76b71fecb77e",
       "title": "3 pièces · 64 m² à Granville",
       "area": 64,
@@ -2542,13 +2732,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-ascenseur-et-parking/101207"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-piece-s-ascenseur-et-parking/101207"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-0efb5b5c005d",
       "title": "3 pièces · 85 m² à Granville",
       "area": 85,
@@ -2586,13 +2780,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-pieces-quartier-historique-vue-mer/109993"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-3-pieces-quartier-historique-vue-mer/109993"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-8902adfb4622",
       "title": "4 pièces · 66 m² à Granville",
       "area": 66,
@@ -2629,13 +2827,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-piece-s-66-m2/112852"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-piece-s-66-m2/112852"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-3b3099f0e902",
       "title": "4 pièces · 72 m² à Granville",
       "area": 72,
@@ -2674,13 +2876,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-piece-s-71-65-m2/110583"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-piece-s-71-65-m2/110583"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-8c45ca357bab",
       "title": "4 pièces · 72 m² à Granville",
       "area": 72,
@@ -2716,13 +2922,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-piece-s-72-m2/111067"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-piece-s-72-m2/111067"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-5e0569705687",
       "title": "4 pièces · 72 m² à Granville",
       "area": 72,
@@ -2762,13 +2972,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-piece-s-72-m2/99717"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-piece-s-72-m2/99717"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-9987a19747f8",
       "title": "4 pièces · 73 m² à Granville",
       "area": 73,
@@ -2806,15 +3020,19 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-piece-s-environ-73-m2/104781"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-piece-s-environ-73-m2/104781"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "century-2536d2e21f74"
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-cf2a81fca683",
       "title": "4 pièces · 75 m² à Granville",
       "area": 75,
@@ -2852,13 +3070,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-piece-s/112607"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-piece-s/112607"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-6b7d141e0141",
       "title": "4 pièces · 80 m² à Granville",
       "area": 80,
@@ -2897,13 +3119,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-pieces-80-m2-balcon/69745"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-4-pieces-80-m2-balcon/69745"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-a988a01a1e4e",
       "title": "5 pièces · 110 m² à Granville",
       "area": 110,
@@ -2940,13 +3166,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-5-piece-s-110m2-vue-mer/92658"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-5-piece-s-110m2-vue-mer/92658"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-9870065496e4",
       "title": "5 pièces · 159 m² à Granville",
       "area": 159,
@@ -2986,13 +3216,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-5-piece-s-159-12-m2/114979"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-5-piece-s-159-12-m2/114979"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-9a2c3965c466",
       "title": "5 pièces · 99 m² à Granville",
       "area": 99,
@@ -3031,15 +3265,19 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-5-pieces-100-m2-jardin-terrasse/90441"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-5-pieces-100-m2-jardin-terrasse/90441"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "century-eb7fa521030d"
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-589043822138",
       "title": "2 pièces · 37 m² à Granville",
       "area": 37,
@@ -3076,13 +3314,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-centre-2-pieces-37-m2/92756"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-centre-2-pieces-37-m2/92756"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-72ded99b57e6",
       "title": "2 pièces · 55 m² à Granville",
       "area": 55,
@@ -3121,13 +3363,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-centre-55m2-vue-mer-face-au-plat-gousset/107937"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-centre-55m2-vue-mer-face-au-plat-gousset/107937"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-b6da028f039e",
       "title": "3 pièces · 75 m² à Granville",
       "area": 75,
@@ -3163,13 +3409,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-proche-centre-granville-3-piece-s-74-80-m2/61304"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-proche-centre-granville-3-piece-s-74-80-m2/61304"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-699ed2823a6f",
       "title": "2 pièces · 47 m² à Granville",
       "area": 47,
@@ -3209,15 +3459,19 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-t2-a-vendre-a-granville-idealement-situe-a-proximite-des-commerces-et-ecoles/29984"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-t2-a-vendre-a-granville-idealement-situe-a-proximite-des-commerces-et-ecoles/29984"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "century-aabf605bc09a"
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-675a878f8cbe",
       "title": "4 pièces · 75 m² à Granville",
       "area": 75,
@@ -3257,13 +3511,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-t4-75-m2-carrez-a-granville/15690"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-t4-75-m2-carrez-a-granville/15690"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-5f21c63903c4",
       "title": "3 pièces · 56 m² à Granville",
       "area": 56,
@@ -3301,9 +3559,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/charmant-appartement-de-56-m2-a-granville-emplacement-ideal/85551"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/charmant-appartement-de-56-m2-a-granville-emplacement-ideal/85551"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-58d994802299"
@@ -3311,6 +3571,8 @@
       "duplicateCandidateOf": "pozzo-58d994802299"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-0f80e07a3377",
       "title": "2 pièces · 31 m² à Granville",
       "area": 31,
@@ -3346,13 +3608,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/granville-appartement-f2-en-vente-proche-plage-et-commerces/115437"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/granville-appartement-f2-en-vente-proche-plage-et-commerces/115437"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-c3c4253ad37e",
       "title": "2 pièces · 47 m² à Granville",
       "area": 47,
@@ -3393,9 +3659,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/granville-beau-t2-quartier-saint-paul-pour-investisseur/116004"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/granville-beau-t2-quartier-saint-paul-pour-investisseur/116004"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "iad-47",
@@ -3405,6 +3673,8 @@
       "duplicateCandidateOf": "iad-47"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-df6d489c43d9",
       "title": "4 pièces · 122 m² à Granville",
       "area": 122,
@@ -3439,13 +3709,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/granville-bel-appartement-avec-terrasse-et-vue-degagee/54214"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/granville-bel-appartement-avec-terrasse-et-vue-degagee/54214"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-ac61217e7681",
       "title": "2 pièces · 38 m² à Granville",
       "area": 38,
@@ -3481,13 +3755,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/pozzo-immobilier-vous-propose-un-appartement-2-pieces-avec-un-jardin-privatif-de-300-m2/65036"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/pozzo-immobilier-vous-propose-un-appartement-2-pieces-avec-un-jardin-privatif-de-300-m2/65036"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-409ac2790d7d",
       "title": "3 pièces · 72 m² à Granville",
       "area": 72,
@@ -3527,13 +3805,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/vente-appartement-f3-71-92-m2-carrez-a-granville/39569"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/vente-appartement-f3-71-92-m2-carrez-a-granville/39569"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "pozzo-6f74c8339eca",
       "title": "5 pièces · 154 m² à Granville",
       "area": 154,
@@ -3572,13 +3854,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/vente-appartement-t5-154-36-m2-carrez-a-granville/44583"
+        "https://pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/vente-appartement-t5-154-36-m2-carrez-a-granville/44583"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-1432513c289d",
       "title": "2 pièces · 46.84 m² à Granville",
       "area": 46.84,
@@ -3617,13 +3903,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/1172182935"
+        "https://century21-royer-granville.com/trouver_logement/detail/1172182935"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-a87ace2f1baa",
       "title": "3 pièces · 52.79 m² à Granville",
       "area": 52.79,
@@ -3665,13 +3955,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/1173741813"
+        "https://century21-royer-granville.com/trouver_logement/detail/1173741813"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-eb7fa521030d",
       "title": "5 pièces · 98.8 m² à Granville",
       "area": 98.8,
@@ -3711,9 +4005,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/12076033889"
+        "https://century21-royer-granville.com/trouver_logement/detail/12076033889"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-9a2c3965c466"
@@ -3721,6 +4017,8 @@
       "duplicateCandidateOf": "pozzo-9a2c3965c466"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-df157d3bcc0d",
       "title": "3 pièces · 43.92 m² à Granville",
       "area": 43.92,
@@ -3756,13 +4054,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/13851917805"
+        "https://century21-royer-granville.com/trouver_logement/detail/13851917805"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-f5f1d80fe080",
       "title": "3 pièces · 55.81 m² à Granville",
       "area": 55.81,
@@ -3802,13 +4104,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/14496587550"
+        "https://century21-royer-granville.com/trouver_logement/detail/14496587550"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-56552664bc12",
       "title": "3 pièces · 76 m² à Granville",
       "area": 76,
@@ -3845,9 +4151,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/14873252583"
+        "https://century21-royer-granville.com/trouver_logement/detail/14873252583"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-caad8d1bf411"
@@ -3855,6 +4163,8 @@
       "duplicateCandidateOf": "pozzo-caad8d1bf411"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-7d889776e9ef",
       "title": "6 pièces · 118.22 m² à Granville",
       "area": 118.22,
@@ -3890,13 +4200,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/14987709092"
+        "https://century21-royer-granville.com/trouver_logement/detail/14987709092"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-6cc4f1e58dbc",
       "title": "6 pièces · 121.7 m² à Granville",
       "area": 121.7,
@@ -3935,13 +4249,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15181335771"
+        "https://century21-royer-granville.com/trouver_logement/detail/15181335771"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-aabf605bc09a",
       "title": "2 pièces · 47.52 m² à Granville",
       "area": 47.52,
@@ -3979,9 +4297,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15219683375"
+        "https://century21-royer-granville.com/trouver_logement/detail/15219683375"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-699ed2823a6f"
@@ -3989,6 +4309,8 @@
       "duplicateCandidateOf": "pozzo-699ed2823a6f"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-7a7f73bcc3f9",
       "title": "2 pièces · 47 m² à Granville",
       "area": 47,
@@ -4024,9 +4346,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15223355356"
+        "https://century21-royer-granville.com/trouver_logement/detail/15223355356"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-c3c4253ad37e",
@@ -4034,6 +4358,8 @@
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-8f5f42d5b984",
       "title": "4 pièces · 74.19 m² à Granville",
       "area": 74.19,
@@ -4073,9 +4399,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15242187260"
+        "https://century21-royer-granville.com/trouver_logement/detail/15242187260"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-fa1a2fad2bd8"
@@ -4083,6 +4411,8 @@
       "duplicateCandidateOf": "pozzo-fa1a2fad2bd8"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-86919a260259",
       "title": "3 pièces · 94.65 m² à Granville",
       "area": 94.65,
@@ -4118,13 +4448,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15251924655"
+        "https://century21-royer-granville.com/trouver_logement/detail/15251924655"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-01d22dcbef85",
       "title": "4 pièces · 78.5 m² à Granville",
       "area": 78.5,
@@ -4165,13 +4499,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15438893244"
+        "https://century21-royer-granville.com/trouver_logement/detail/15438893244"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-85b46a35a01c",
       "title": "1 pièces · 26.04 m² à Granville",
       "area": 26.04,
@@ -4208,13 +4546,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15479324785"
+        "https://century21-royer-granville.com/trouver_logement/detail/15479324785"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-46aebca5d097",
       "title": "1 pièces · 13 m² à Granville",
       "area": 13,
@@ -4250,13 +4592,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15614507247"
+        "https://century21-royer-granville.com/trouver_logement/detail/15614507247"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-beae4451296d",
       "title": "1 pièces · 26.39 m² à Granville",
       "area": 26.39,
@@ -4292,13 +4638,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15686016924"
+        "https://century21-royer-granville.com/trouver_logement/detail/15686016924"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-dee704d4340d",
       "title": "1 pièces · 25.85 m² à Granville",
       "area": 25.85,
@@ -4335,13 +4685,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15686055502"
+        "https://century21-royer-granville.com/trouver_logement/detail/15686055502"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-fb5fbf85c3f7",
       "title": "2 pièces · 56.52 m² à Granville",
       "area": 56.52,
@@ -4378,13 +4732,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15686154051"
+        "https://century21-royer-granville.com/trouver_logement/detail/15686154051"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-61504f27362a",
       "title": "2 pièces · 43.85 m² à Granville",
       "area": 43.85,
@@ -4421,9 +4779,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15686204516"
+        "https://century21-royer-granville.com/trouver_logement/detail/15686204516"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-1eabf9681d19"
@@ -4431,6 +4791,8 @@
       "duplicateCandidateOf": "pozzo-1eabf9681d19"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-a5cba5f3f3ed",
       "title": "2 pièces · 44 m² à Granville",
       "area": 44,
@@ -4466,15 +4828,19 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15693416823"
+        "https://century21-royer-granville.com/trouver_logement/detail/15693416823"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "iad-5231f5c7003e"
       ]
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-9a7456be75c3",
       "title": "2 pièces · 45 m² à Granville",
       "area": 45,
@@ -4510,9 +4876,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15693427673"
+        "https://century21-royer-granville.com/trouver_logement/detail/15693427673"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-ac4f0bdf3851",
@@ -4521,6 +4889,8 @@
       "duplicateCandidateOf": "pozzo-ac4f0bdf3851"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-9f989133cce6",
       "title": "3 pièces · 57.3 m² à Granville",
       "area": 57.3,
@@ -4560,16 +4930,20 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/15746481388"
+        "https://century21-royer-granville.com/trouver_logement/detail/15746481388"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-2536d2e21f74",
-      "title": "4 pièces · 72.68 m² à Granville",
-      "area": 72.68,
+      "title": "4 pièces · 72.41 m² à Granville",
+      "area": 72.41,
       "rooms": 4,
       "bedrooms": null,
       "floor": 0,
@@ -4579,16 +4953,16 @@
       "condition": "unknown",
       "dpe": "?",
       "agency": "Century 21 Royer Immo",
-      "ref": "21185",
+      "ref": "45604",
       "charges": 1700,
       "tax": null,
       "ownerCharges": 680,
-      "works": 80000,
-      "rent": 945,
+      "works": 79500,
+      "rent": 940,
       "occupied": false,
-      "source": "https://www.century21-royer-granville.com/trouver_logement/detail/15845732487/",
-      "photo": "https://www.century21-royer-granville.com/imagesBien/s3/202/2676/c21_202_2676_21185_8_F126C7C2-DA3F-43B5-AFA1-B0BF5E371BC2.jpg",
-      "description": "Appartement de 72.68 m² et 4 pièces à Granville. Caractéristiques extraites de la fiche de l’agence ; les montants de travaux et de loyer sont des hypothèses de simulation.",
+      "source": "https://www.century21-royer-granville.com/trouver_logement/detail/16691273574/",
+      "photo": "https://www.century21-royer-granville.com/imagesBien/s3/202/270/c21_202_270_45604_8_F126C7C2-DA3F-43B5-AFA1-B0BF5E371BC2.jpg",
+      "description": "Appartement de 72.41 m² et 4 pièces à Granville. Caractéristiques extraites de la fiche de l’agence ; les montants de travaux et de loyer sont des hypothèses de simulation.",
       "assets": [
         "Cave annoncée"
       ],
@@ -4630,9 +5004,6 @@
           "publishedAt": null
         }
       ],
-      "publishedAt": null,
-      "publicationEvidence": null,
-      "identityStatus": "confirmed",
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-9987a19747f8"
@@ -4640,6 +5011,8 @@
       "duplicateCandidateOf": "pozzo-9987a19747f8"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-0f4747b0a513",
       "title": "2 pièces · 37.63 m² à Granville",
       "area": 37.63,
@@ -4678,13 +5051,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/16221633083"
+        "https://century21-royer-granville.com/trouver_logement/detail/16221633083"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-d07b56f396bf",
       "title": "4 pièces · 98.01 m² à Granville",
       "area": 98.01,
@@ -4723,13 +5100,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/1638377221"
+        "https://century21-royer-granville.com/trouver_logement/detail/1638377221"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-b68e50ebebc6",
       "title": "2 pièces · 45.43 m² à Granville",
       "area": 45.43,
@@ -4766,13 +5147,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/16527988597"
+        "https://century21-royer-granville.com/trouver_logement/detail/16527988597"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-701e364be662",
       "title": "2 pièces · 38.5 m² à Granville",
       "area": 38.5,
@@ -4809,13 +5194,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/16617996812"
+        "https://century21-royer-granville.com/trouver_logement/detail/16617996812"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-03a41d0ce248",
       "title": "2 pièces · 40.77 m² à Granville",
       "area": 40.77,
@@ -4855,13 +5244,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/16835948542"
+        "https://century21-royer-granville.com/trouver_logement/detail/16835948542"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-7ccf7bcec82f",
       "title": "3 pièces · 95.51 m² à Granville",
       "area": 95.51,
@@ -4901,13 +5294,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/7138317648"
+        "https://century21-royer-granville.com/trouver_logement/detail/7138317648"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "century-b7ce31a291d8",
       "title": "2 pièces · 47.9 m² à Granville",
       "area": 47.9,
@@ -4944,9 +5341,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.century21-royer-granville.com/trouver_logement/detail/9203377631"
+        "https://century21-royer-granville.com/trouver_logement/detail/9203377631"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-907a22f244ef"
@@ -4954,6 +5353,8 @@
       "duplicateCandidateOf": "pozzo-907a22f244ef"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-d2174464571c",
       "title": "1 pièces · 25.9 m² à Granville",
       "area": 25.9,
@@ -4988,13 +5389,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-granville-26m2/r1826067"
+        "https://iadfrance.fr/annonce/appartement-vente-1-piece-granville-26m2/r1826067"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-17df4071896a",
       "title": "1 pièces · 27.46 m² à Granville",
       "area": 27.46,
@@ -5029,13 +5434,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-granville-27m2/r2028092"
+        "https://iadfrance.fr/annonce/appartement-vente-1-piece-granville-27m2/r2028092"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-2bb0bd73007e",
       "title": "1 pièces · 31 m² à Granville",
       "area": 31,
@@ -5072,13 +5481,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-1-piece-granville-31m2/r1806885"
+        "https://iadfrance.fr/annonce/appartement-vente-1-piece-granville-31m2/r1806885"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-5b8708549a64",
       "title": "2 pièces · 29 m² à Granville",
       "area": 29,
@@ -5112,13 +5525,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-granville-29m2/r1862354"
+        "https://iadfrance.fr/annonce/appartement-vente-2-pieces-granville-29m2/r1862354"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-365d7ba8c658",
       "title": "2 pièces · 34 m² à Granville",
       "area": 34,
@@ -5153,13 +5570,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-granville-34m2/r2012789"
+        "https://iadfrance.fr/annonce/appartement-vente-2-pieces-granville-34m2/r2012789"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-d60fca043330",
       "title": "2 pièces · 43 m² à Granville",
       "area": 43,
@@ -5193,13 +5614,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-granville-43m2/r2079390"
+        "https://iadfrance.fr/annonce/appartement-vente-2-pieces-granville-43m2/r2079390"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-5231f5c7003e",
       "title": "2 pièces · 44 m² à Granville",
       "area": 44,
@@ -5236,9 +5661,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-granville-44m2/r2066676"
+        "https://iadfrance.fr/annonce/appartement-vente-2-pieces-granville-44m2/r2066676"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "century-a5cba5f3f3ed"
@@ -5246,6 +5673,8 @@
       "duplicateCandidateOf": "century-a5cba5f3f3ed"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-96a47501a578",
       "title": "2 pièces · 45 m² à Granville",
       "area": 45,
@@ -5280,9 +5709,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-granville-45m2/r2066686"
+        "https://iadfrance.fr/annonce/appartement-vente-2-pieces-granville-45m2/r2066686"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-ac4f0bdf3851",
@@ -5291,6 +5722,8 @@
       "duplicateCandidateOf": "pozzo-ac4f0bdf3851"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-2bc3e015b345",
       "title": "2 pièces · 46 m² à Granville",
       "area": 46,
@@ -5329,13 +5762,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-granville-46m2/r2108030"
+        "https://iadfrance.fr/annonce/appartement-vente-2-pieces-granville-46m2/r2108030"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-37af42bb1149",
       "title": "2 pièces · 47 m² à Granville",
       "area": 47,
@@ -5370,9 +5807,11 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-granville-47m2/r2066689"
+        "https://iadfrance.fr/annonce/appartement-vente-2-pieces-granville-47m2/r2066689"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-c3c4253ad37e",
@@ -5381,6 +5820,8 @@
       "duplicateCandidateOf": "century-7a7f73bcc3f9"
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-611fb3183689",
       "title": "2 pièces · 49 m² à Granville",
       "area": 49,
@@ -5415,13 +5856,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-granville-49m2/r2066522"
+        "https://iadfrance.fr/annonce/appartement-vente-2-pieces-granville-49m2/r2066522"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-8d45c9075f0f",
       "title": "2 pièces · 56.11 m² à Granville",
       "area": 56.11,
@@ -5458,13 +5903,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-2-pieces-granville-56m2/r2028046"
+        "https://iadfrance.fr/annonce/appartement-vente-2-pieces-granville-56m2/r2028046"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-537aa41bfba7",
       "title": "3 pièces · 51.4 m² à Granville",
       "area": 51.4,
@@ -5499,13 +5948,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-granville-51m2/r1992419"
+        "https://iadfrance.fr/annonce/appartement-vente-3-pieces-granville-51m2/r1992419"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-2869ac72e08c",
       "title": "3 pièces · 64.24 m² à Granville",
       "area": 64.24,
@@ -5545,13 +5998,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-granville-64m2/r1985146"
+        "https://iadfrance.fr/annonce/appartement-vente-3-pieces-granville-64m2/r1985146"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-0ec6a1219be9",
       "title": "3 pièces · 68 m² à Granville",
       "area": 68,
@@ -5587,13 +6044,17 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-3-pieces-granville-68m2/r2071444"
+        "https://iadfrance.fr/annonce/appartement-vente-3-pieces-granville-68m2/r2071444"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     },
     {
+      "publishedAt": null,
+      "publicationEvidence": null,
       "id": "iad-c1ff97082e03",
       "title": "5 pièces · 108 m² à Granville",
       "area": 108,
@@ -5631,16 +6092,18 @@
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
-        "https://www.iadfrance.fr/annonce/appartement-vente-5-pieces-granville-108m2/r1917462"
+        "https://iadfrance.fr/annonce/appartement-vente-5-pieces-granville-108m2/r1917462"
       ],
-      "firstSeenAt": "2026-09-18T16:15:13.213Z",
+      "firstSeenAt": "2026-09-18",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     }
   ],
   "deduplication": {
-    "checkedAt": "2026-09-18T20:54:25.545Z",
-    "confirmedMerged": 1,
+    "checkedAt": "2026-09-18T20:58:22.902Z",
+    "confirmedMerged": 0,
     "hiddenCandidates": 17
   }
 }
