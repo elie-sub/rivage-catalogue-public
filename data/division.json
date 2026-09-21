@@ -49,7 +49,12 @@
       "verification": "direct",
       "photo": "https://s3.eu-west-3.amazonaws.com/prod-enligne.immo-uploads/medias/P975/yoDw2tZZjz/Maison_Granville_4_piece_s_87_3_m2_0_origsmall.webp",
       "lastAttemptAt": "2026-09-21T19:47:21.838040+00:00",
-      "refreshStatus": "ok"
+      "refreshStatus": "ok",
+      "photos": [
+        "https://s3.eu-west-3.amazonaws.com/prod-enligne.immo-uploads/medias/P975/yoDw2tZZjz/Maison_Granville_4_piece_s_87_3_m2_0_origsmall.webp"
+      ],
+      "photoSource": "https://www.pozzo-immobilier.fr/fr/immobilier/vente/maison/granville/maison-granville-4-pieces-873-m2/113486",
+      "photosCheckedAt": "2026-09-21T20:18:08.826662+00:00"
     },
     {
       "id": "division-pozzo-53419",
@@ -110,10 +115,15 @@
       "firstSeenAt": "2026-09-21T19:36:34.718003+00:00",
       "publishedAt": null,
       "verification": "web_research",
-      "photo": null,
+      "photo": "https://www.ouestfrance-immo.com/photo-vente-maison-granville-50/207/maison-a-vendre-granville-20138509_1_1779184404_36ee0ccc7bd3834722cf429350a661d01de50464_rcrop_650-487_.jpg",
       "lastAttemptAt": "2026-09-21T19:47:21.838745+00:00",
       "refreshStatus": "unavailable",
-      "refreshMessage": "Données structurées non exploitables ; observation précédente conservée"
+      "refreshMessage": "Données structurées non exploitables ; observation précédente conservée",
+      "photos": [
+        "https://www.ouestfrance-immo.com/photo-vente-maison-granville-50/207/maison-a-vendre-granville-20138509_1_1779184404_36ee0ccc7bd3834722cf429350a661d01de50464_rcrop_650-487_.jpg"
+      ],
+      "photoSource": "https://www.ouestfrance-immo.com/immobilier/vente/maison/granville-50-50218/20138509.htm",
+      "photosCheckedAt": "2026-09-21T20:18:08.827293+00:00"
     },
     {
       "id": "division-pozzo-53302",
@@ -228,10 +238,26 @@
       "firstSeenAt": "2026-09-21T19:36:34.718003+00:00",
       "publishedAt": null,
       "verification": "web_research",
-      "photo": null,
+      "photo": "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-316200f7145396629e4d.jpg?height=500&width=750",
       "lastAttemptAt": "2026-09-21T19:47:23.269100+00:00",
       "refreshStatus": "unavailable",
-      "refreshMessage": "HTTP Error 403: Forbidden"
+      "refreshMessage": "HTTP Error 403: Forbidden",
+      "photos": [
+        "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-316200f7145396629e4d.jpg?height=500&width=750",
+        "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-d15fe5e2e2aa401bc58d.jpg?height=500&width=750",
+        "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-3b421cb08a72f31f8e21.jpg?height=500&width=750",
+        "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-be736a28be1ff74c159f.jpg?height=500&width=750",
+        "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-c6c50af7fd576f43902e.jpg?height=500&width=750",
+        "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-9ea43026034f1d23c1c3.jpg?height=500&width=750",
+        "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-d600ecccd261bdd314f0.jpg?height=500&width=750",
+        "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-e9bc6cc244d8166ffe39.jpg?height=500&width=750",
+        "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-75e0901f804d781bd5b2.jpg?height=500&width=750",
+        "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-ed02e75339e502bbf6c9.jpg?height=500&width=750",
+        "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-c790e2fc78740d3f7937.jpg?height=500&width=750",
+        "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-e2497adb46d013dd4425.jpg?height=500&width=750"
+      ],
+      "photoSource": "https://www.french-property.com/fr/bien-a-vendre/3772-Aqy6gi8c6whjy1l3",
+      "photosCheckedAt": "2026-09-21T20:18:08.827889+00:00"
     },
     {
       "id": "division-polidori-im616",
@@ -297,10 +323,25 @@
       "firstSeenAt": "2026-09-21T19:36:34.718003+00:00",
       "publishedAt": null,
       "verification": "web_research",
-      "photo": null,
+      "photo": "https://photos.notariat.services/photos/60584668a.jpg",
       "lastAttemptAt": "2026-09-21T19:47:23.605496+00:00",
       "refreshStatus": "unavailable",
-      "refreshMessage": "Données structurées non exploitables ; observation précédente conservée"
+      "refreshMessage": "Données structurées non exploitables ; observation précédente conservée",
+      "photos": [
+        "https://photos.notariat.services/photos/60584668a.jpg",
+        "https://photos.notariat.services/photos/60584668b.jpg",
+        "https://photos.notariat.services/photos/60584668c.jpg",
+        "https://photos.notariat.services/photos/60584668d.jpg",
+        "https://photos.notariat.services/photos/60584668e.jpg",
+        "https://photos.notariat.services/photos/60584668f.jpg",
+        "https://photos.notariat.services/photos/60584668g.jpg",
+        "https://photos.notariat.services/photos/60584668h.jpg",
+        "https://photos.notariat.services/photos/60584668i.jpg",
+        "https://photos.notariat.services/photos/60584668j.jpg",
+        "https://photos.notariat.services/photos/60584668k.jpg"
+      ],
+      "photoSource": "https://www.polidori.notaires.fr/annonces-immobilieres/annonce/0000012539_IM616_60584668/immeuble-a-vendre-granville-50400-224m2.html",
+      "photosCheckedAt": "2026-09-21T20:18:08.828187+00:00"
     },
     {
       "id": "division-proprietes-442879",
@@ -356,11 +397,28 @@
       "firstSeenAt": "2026-09-21T19:36:34.718003+00:00",
       "publishedAt": null,
       "verification": "web_research",
-      "photo": null,
+      "photo": "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-1.jpg",
       "lastAttemptAt": "2026-09-21T19:47:24.193810+00:00",
       "refreshStatus": "unavailable",
-      "refreshMessage": "HTTP Error 403: Forbidden"
+      "refreshMessage": "HTTP Error 403: Forbidden",
+      "photos": [
+        "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-1.jpg",
+        "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-2.jpg",
+        "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-3.jpg",
+        "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-4.jpg",
+        "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-5.jpg",
+        "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-6.jpg",
+        "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-7.jpg",
+        "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-8.jpg",
+        "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-9.jpg",
+        "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-10.jpg",
+        "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-11.jpg",
+        "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-12.jpg"
+      ],
+      "photoSource": "https://www.casagogo.fr/annonces/vente/50400-granville/immeuble-198m2/15667187",
+      "photosCheckedAt": "2026-09-21T20:18:08.828446+00:00"
     }
   ],
-  "lastAttemptAt": "2026-09-21T19:47:25.452818+00:00"
+  "lastAttemptAt": "2026-09-21T19:47:25.452818+00:00",
+  "mediaUpdatedAt": "2026-09-21T20:18:08.828454+00:00"
 }
