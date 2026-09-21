@@ -1,6 +1,6 @@
 export const normalized=v=>String(v||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]/g,'');
 export const family=p=>/pozzo/i.test(p.agency)?'pozzo':/century/i.test(p.agency)?'century':/iad/i.test(p.agency)?'iad':/folliot/i.test(p.agency)?'folliot':normalized(p.agency);
-export function canonicalUrl(value){try{const u=new URL(value);u.hash='';u.hostname=u.hostname.replace(/^www\./,'');for(const k of [...u.searchParams.keys()])if(/^(utm_|fbclid$|gclid$)/i.test(k))u.searchParams.delete(k);u.searchParams.sort();return u.origin+u.pathname.replace(/\/$/,'')+u.search;}catch{return '';}}
+export function canonicalUrl(value){try{const u=new URL(value);u.hash='';u.hostname=u.hostname.replace(/^www\./,'');if(u.hostname==='leboncoin.fr'){const id=u.pathname.match(/^\/(?:vi\/(\d+)\.htm|ad\/ventes_immobilieres\/(\d+))\/?$/);if(id)return 'https://leboncoin.fr/ad/ventes_immobilieres/'+(id[1]||id[2]);}for(const k of [...u.searchParams.keys()])if(/^(utm_|fbclid$|gclid$)/i.test(k))u.searchParams.delete(k);u.searchParams.sort();return u.origin+u.pathname.replace(/\/$/,'')+u.search;}catch{return '';}}
 export const urls=p=>[p.source,p.photoSource,...(p.aliases||[]),...(p.listingSources||[]).map(s=>s.url)].filter(Boolean).map(canonicalUrl).filter(Boolean);
 const refs=p=>[{agency:p.agency,ref:p.ref},...(p.listingSources||[])].filter(s=>s.ref&&/^\d{3,}$|^[a-zA-Z]*\d{3,}[a-zA-Z]*$/.test(String(s.ref)));
 const sameRef=(a,b)=>refs(a).some(x=>refs(b).some(y=>family(x)===family(y)&&normalized(x.ref)===normalized(y.ref)));

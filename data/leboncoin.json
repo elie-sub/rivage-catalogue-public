@@ -1,0 +1,149 @@
+{
+  "schema": 1,
+  "importedAt": "2026-09-21T17:56:02.022Z",
+  "facts": [
+    {
+      "id": "3236516408",
+      "price": 129500,
+      "area": 27,
+      "rooms": 1,
+      "city": "Granville",
+      "postcode": "50400",
+      "type": "Appartement",
+      "center": false,
+      "observedAt": "2026-09-15"
+    },
+    {
+      "id": "3138465699",
+      "price": 210000,
+      "area": 52,
+      "rooms": 3,
+      "city": "Granville",
+      "postcode": "50400",
+      "type": "Appartement",
+      "center": false,
+      "observedAt": "2026-09-14"
+    },
+    {
+      "id": "3204290110",
+      "price": 193500,
+      "area": 49,
+      "rooms": 2,
+      "city": "Granville",
+      "postcode": "50400",
+      "type": "Appartement",
+      "center": true,
+      "observedAt": "2026-09-14"
+    },
+    {
+      "id": "3204290111",
+      "price": 154500,
+      "area": 48,
+      "rooms": 2,
+      "city": "Granville",
+      "postcode": "50400",
+      "type": "Appartement",
+      "center": true,
+      "observedAt": "2026-09-14"
+    },
+    {
+      "id": "3269153756",
+      "price": 154900,
+      "area": 72.45,
+      "rooms": 4,
+      "city": "Granville",
+      "postcode": "50400",
+      "type": "Appartement",
+      "center": false,
+      "observedAt": "2026-09-14"
+    },
+    {
+      "id": "3268530295",
+      "price": 159000,
+      "area": 47,
+      "rooms": 2,
+      "city": "Granville",
+      "postcode": "50400",
+      "type": "Appartement",
+      "center": false,
+      "observedAt": "2026-09-13"
+    },
+    {
+      "id": "3265557563",
+      "price": 128000,
+      "area": 31,
+      "rooms": 2,
+      "city": "Granville",
+      "postcode": "50400",
+      "type": "Appartement",
+      "center": false,
+      "observedAt": "2026-09-08"
+    },
+    {
+      "id": "3069204061",
+      "price": 195500,
+      "area": 47,
+      "rooms": 2,
+      "city": "Granville",
+      "postcode": "50400",
+      "type": "Appartement",
+      "center": false,
+      "observedAt": "2026-09-05"
+    },
+    {
+      "id": "3229980886",
+      "price": 350000,
+      "area": 133,
+      "rooms": 4,
+      "city": "Granville",
+      "postcode": "50400",
+      "type": "Appartement",
+      "center": true,
+      "observedAt": "2026-09-03"
+    },
+    {
+      "id": "3228124530",
+      "price": 195500,
+      "area": 49,
+      "rooms": 2,
+      "city": "Granville",
+      "postcode": "50400",
+      "type": "Appartement",
+      "center": true,
+      "observedAt": "2026-08-31"
+    },
+    {
+      "id": "3259829464",
+      "price": 154900,
+      "area": 72.45,
+      "rooms": 4,
+      "city": "Granville",
+      "postcode": "50400",
+      "type": "Appartement",
+      "center": false,
+      "observedAt": "2026-08-31"
+    },
+    {
+      "id": "3227714683",
+      "price": 160000,
+      "area": 56,
+      "rooms": 3,
+      "city": "Granville",
+      "postcode": "50400",
+      "type": "Appartement",
+      "center": false,
+      "observedAt": "2026-08-30"
+    },
+    {
+      "id": "3259244607",
+      "price": 154900,
+      "area": 72.45,
+      "rooms": 4,
+      "city": "Granville",
+      "postcode": "50400",
+      "type": "Appartement",
+      "center": false,
+      "observedAt": "2026-08-30"
+    }
+  ]
+}
