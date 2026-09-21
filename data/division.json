@@ -1,0 +1,366 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-09-21T19:47:25.452818+00:00",
+  "coverage": "Sélection étudiée, non exhaustive. Les données non revérifiées conservent leur date. Aucune division n’est validée à ce stade.",
+  "properties": [
+    {
+      "id": "division-pozzo-54009",
+      "title": "Maison à rénover · premier projet de division",
+      "type": "Maison",
+      "kind": "create",
+      "price": 249000.0,
+      "area": 87.3,
+      "rentableArea": 72,
+      "zone": "Granville · adresse à préciser",
+      "center": false,
+      "agency": "Pozzo Immobilier",
+      "ref": "54009",
+      "source": "https://www.pozzo-immobilier.fr/fr/immobilier/vente/maison/granville/maison-granville-4-pieces-873-m2/113486",
+      "facts": [
+        "Maison de 4 pièces, rénovation annoncée.",
+        "Rez-de-chaussée surélevé, trois chambres et sous-sol avec garage."
+      ],
+      "risks": [
+        "Deux logements sont une hypothèse de travail, sans plan ni autorisation.",
+        "Sous-sol et garage exclus des surfaces locatives simulées.",
+        "Accès séparés, lumière et stationnement à valider."
+      ],
+      "units": [
+        {
+          "label": "T2 projeté 1",
+          "area": 36,
+          "rent": 550
+        },
+        {
+          "label": "T2 projeté 2",
+          "area": 36,
+          "rent": 550
+        }
+      ],
+      "works": 110000,
+      "occupation": "Occupation non précisée",
+      "project": "Tester deux logements dans le volume habitable, sans compter le sous-sol.",
+      "priority": 1,
+      "city": "Granville",
+      "postcode": "50400",
+      "checked": "2026-09-21",
+      "firstSeenAt": "2026-09-21T19:36:34.718003+00:00",
+      "publishedAt": null,
+      "verification": "direct",
+      "photo": "https://s3.eu-west-3.amazonaws.com/prod-enligne.immo-uploads/medias/P975/yoDw2tZZjz/Maison_Granville_4_piece_s_87_3_m2_0_origsmall.webp",
+      "lastAttemptAt": "2026-09-21T19:47:21.838040+00:00",
+      "refreshStatus": "ok"
+    },
+    {
+      "id": "division-pozzo-53419",
+      "title": "Maison en pierre · 250 m² à reconfigurer",
+      "type": "Maison",
+      "kind": "create",
+      "price": 497000,
+      "area": 250,
+      "rentableArea": 210,
+      "zone": "Granville · secteur à confirmer",
+      "center": false,
+      "agency": "Pozzo Immobilier",
+      "ref": "53419",
+      "source": "https://www.pozzo-immobilier.fr/fr/immobilier/vente/maison/granville/maison-granville-12-pieces-sur-1862m2-de-terrain/59775",
+      "facts": [
+        "Maison de 1858, 12 pièces et 8 chambres.",
+        "Terrain annoncé de 1 862 m² ; rafraîchissement annoncé."
+      ],
+      "risks": [
+        "Cinq logements envisagés par simulation uniquement.",
+        "Rafraîchir une maison et créer cinq appartements sont des budgets différents.",
+        "Charpente, réseaux, escaliers et protection patrimoniale à expertiser."
+      ],
+      "units": [
+        {
+          "label": "T2 projeté 1",
+          "area": 42,
+          "rent": 620
+        },
+        {
+          "label": "T2 projeté 2",
+          "area": 42,
+          "rent": 620
+        },
+        {
+          "label": "T2 projeté 3",
+          "area": 42,
+          "rent": 620
+        },
+        {
+          "label": "T2 projeté 4",
+          "area": 42,
+          "rent": 620
+        },
+        {
+          "label": "T2 projeté 5",
+          "area": 42,
+          "rent": 620
+        }
+      ],
+      "works": 315000,
+      "occupation": "Occupation non précisée",
+      "project": "Étudier cinq logements de 42 m², avec 40 m² non affectés à la location.",
+      "priority": 2,
+      "city": "Granville",
+      "postcode": "50400",
+      "checked": "2026-09-21",
+      "firstSeenAt": "2026-09-21T19:36:34.718003+00:00",
+      "publishedAt": null,
+      "verification": "web_research",
+      "photo": null,
+      "lastAttemptAt": "2026-09-21T19:47:21.838745+00:00",
+      "refreshStatus": "unavailable",
+      "refreshMessage": "Données structurées non exploitables ; observation précédente conservée"
+    },
+    {
+      "id": "division-pozzo-53302",
+      "title": "Grande maison · ancien espace professionnel",
+      "type": "Maison",
+      "kind": "create",
+      "price": 597360,
+      "area": 254,
+      "rentableArea": 210,
+      "zone": "Granville · secteur à confirmer",
+      "center": false,
+      "agency": "Pozzo Immobilier",
+      "ref": "53302",
+      "source": "https://www.pozzo-immobilier.fr/fr/immobilier/vente/maison/granville/maison-granville-9-pieces-254-m2/104204",
+      "facts": [
+        "Maison de 9 pièces et 5 chambres.",
+        "Ancien cabinet professionnel, grenier et dépendance annoncés."
+      ],
+      "risks": [
+        "Nature exacte des 254 m² à mesurer : ne pas ajouter grenier et dépendance à cette surface.",
+        "Destination de l’ancien cabinet et faisabilité des accès à confirmer.",
+        "Cinq logements ne sont pas annoncés comme autorisés."
+      ],
+      "units": [
+        {
+          "label": "T2 projeté 1",
+          "area": 42,
+          "rent": 620
+        },
+        {
+          "label": "T2 projeté 2",
+          "area": 42,
+          "rent": 620
+        },
+        {
+          "label": "T2 projeté 3",
+          "area": 42,
+          "rent": 620
+        },
+        {
+          "label": "T2 projeté 4",
+          "area": 42,
+          "rent": 620
+        },
+        {
+          "label": "T2 projeté 5",
+          "area": 42,
+          "rent": 620
+        }
+      ],
+      "works": 330000,
+      "occupation": "Occupation non précisée",
+      "project": "Comparer une reconfiguration en cinq logements avec le coût d’achat élevé.",
+      "priority": 5,
+      "city": "Granville",
+      "postcode": "50400",
+      "checked": "2026-09-21",
+      "firstSeenAt": "2026-09-21T19:36:34.718003+00:00",
+      "publishedAt": null,
+      "verification": "web_research",
+      "photo": null,
+      "lastAttemptAt": "2026-09-21T19:47:21.838822+00:00",
+      "refreshStatus": "unavailable",
+      "refreshMessage": "Données structurées non exploitables ; observation précédente conservée"
+    },
+    {
+      "id": "division-laforet-148",
+      "title": "Immeuble · trois appartements annoncés libres",
+      "type": "Immeuble",
+      "kind": "existing",
+      "price": 439000,
+      "area": 138,
+      "rentableArea": 138,
+      "zone": "Granville · à 5 min à pied de la gare",
+      "center": false,
+      "agency": "Laforêt Granville",
+      "ref": "148",
+      "source": "https://www.logic-immo.com/detail-annonce/vente/normandie/manche-50/granville-50400/26BSZ744I7CN",
+      "facts": [
+        "Trois appartements de 44, 46 et 48 m² annoncés.",
+        "Rénovation annoncée ; copropriété en cours de création."
+      ],
+      "risks": [
+        "Bien déjà organisé en logements : aucun lot supplémentaire validé.",
+        "Vérifier livraison des travaux, diagnostics et périmètre exact vendu.",
+        "Demander règlement de copropriété et répartition des charges."
+      ],
+      "units": [
+        {
+          "label": "Appartement RDC",
+          "area": 44,
+          "rent": 620
+        },
+        {
+          "label": "Appartement 1er",
+          "area": 46,
+          "rent": 650
+        },
+        {
+          "label": "Appartement 2e",
+          "area": 48,
+          "rent": 680
+        }
+      ],
+      "works": 15000,
+      "occupation": "Trois logements annoncés libres",
+      "project": "Comparer un immeuble déjà divisé avec une opération de transformation.",
+      "priority": 3,
+      "city": "Granville",
+      "postcode": "50400",
+      "checked": "2026-09-21",
+      "firstSeenAt": "2026-09-21T19:36:34.718003+00:00",
+      "publishedAt": null,
+      "verification": "web_research",
+      "photo": null,
+      "lastAttemptAt": "2026-09-21T19:47:23.269100+00:00",
+      "refreshStatus": "unavailable",
+      "refreshMessage": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "division-polidori-im616",
+      "title": "Immeuble de rapport · six T2 près de la gare",
+      "type": "Immeuble",
+      "kind": "existing",
+      "price": 489500,
+      "area": 224,
+      "rentableArea": 214,
+      "zone": "Granville · gare et centre à proximité",
+      "center": true,
+      "agency": "Office Polidori",
+      "ref": "IM616",
+      "source": "https://www.polidori.notaires.fr/annonces-immobilieres/annonce/0000012539_IM616_60584668/immeuble-a-vendre-granville-50400-224m2.html",
+      "facts": [
+        "Six appartements annoncés, dans un immeuble de 224 m².",
+        "Emplacement proche de la gare et du centre-ville."
+      ],
+      "risks": [
+        "Occupation à recouper : six loués chez le notaire, cinq loués et un libre dans une annonce SAFTI similaire.",
+        "Loyers en place inconnus : la simulation est une cible et ne mesure pas le rendement actuel.",
+        "Les surfaces par logement ci-dessous sont une répartition hypothétique, à remplacer par les mesurages."
+      ],
+      "units": [
+        {
+          "label": "T2 1 · surface estimée",
+          "area": 30,
+          "rent": 450
+        },
+        {
+          "label": "T2 2 · surface estimée",
+          "area": 32,
+          "rent": 480
+        },
+        {
+          "label": "T2 3 · surface estimée",
+          "area": 35,
+          "rent": 525
+        },
+        {
+          "label": "T2 4 · surface estimée",
+          "area": 36,
+          "rent": 540
+        },
+        {
+          "label": "T2 5 · surface estimée",
+          "area": 40,
+          "rent": 600
+        },
+        {
+          "label": "T2 6 · surface estimée",
+          "area": 41,
+          "rent": 615
+        }
+      ],
+      "works": 50000,
+      "occupation": "Occupé · état locatif à obtenir",
+      "project": "Optimiser progressivement un immeuble existant, en respectant les baux.",
+      "priority": 4,
+      "city": "Granville",
+      "postcode": "50400",
+      "checked": "2026-09-21",
+      "firstSeenAt": "2026-09-21T19:36:34.718003+00:00",
+      "publishedAt": null,
+      "verification": "web_research",
+      "photo": null,
+      "lastAttemptAt": "2026-09-21T19:47:23.605496+00:00",
+      "refreshStatus": "unavailable",
+      "refreshMessage": "Données structurées non exploitables ; observation précédente conservée"
+    },
+    {
+      "id": "division-proprietes-442879",
+      "title": "Le Roc · grand appartement à redistribuer",
+      "type": "Immeuble",
+      "kind": "create",
+      "price": 609000,
+      "area": 198,
+      "rentableArea": 183,
+      "zone": "Granville · secteur du Roc",
+      "center": true,
+      "agency": "Propriétés Privées",
+      "ref": "442879FSN",
+      "source": "https://www.logic-immo.com/detail-annonce/vente/normandie/manche-50/granville-50400/26U5S9E3J9NA",
+      "facts": [
+        "Deux appartements annoncés : environ 63 m² au RDC et 138 m² à l’étage.",
+        "RDC annoncé loué 350 €/mois ; rénovation à prévoir à l’étage."
+      ],
+      "risks": [
+        "Surface totale 198 m² affichée, contre 201 m² en additionnant les surfaces du descriptif : mesurage requis.",
+        "Le bail du RDC est maintenu dans la simulation à 350 €/mois.",
+        "Division de l’étage en trois T2 seulement hypothétique ; secteur patrimonial à vérifier."
+      ],
+      "units": [
+        {
+          "label": "RDC occupé · loyer annoncé",
+          "area": 63,
+          "rent": 350
+        },
+        {
+          "label": "T2 projeté étage 1",
+          "area": 40,
+          "rent": 620
+        },
+        {
+          "label": "T2 projeté étage 2",
+          "area": 40,
+          "rent": 620
+        },
+        {
+          "label": "T2 projeté étage 3",
+          "area": 40,
+          "rent": 620
+        }
+      ],
+      "works": 205000,
+      "occupation": "RDC occupé · 350 €/mois annoncé",
+      "project": "Conserver le RDC loué et étudier trois logements dans le volume supérieur.",
+      "priority": 2,
+      "city": "Granville",
+      "postcode": "50400",
+      "checked": "2026-09-21",
+      "firstSeenAt": "2026-09-21T19:36:34.718003+00:00",
+      "publishedAt": null,
+      "verification": "web_research",
+      "photo": null,
+      "lastAttemptAt": "2026-09-21T19:47:24.193810+00:00",
+      "refreshStatus": "unavailable",
+      "refreshMessage": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "lastAttemptAt": "2026-09-21T19:47:25.452818+00:00"
+}

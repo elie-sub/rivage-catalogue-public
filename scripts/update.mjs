@@ -4,7 +4,8 @@ import {shouldRunDaily,parisDay} from './schedule.mjs';
 import {reconcile} from './reconcile.mjs';
 import {attachLeboncoin} from './leboncoin.mjs';
 const catalog=JSON.parse(await readFile('data/catalog.json','utf8'));
-const lastCompletedDay=catalog.updatedAt?parisDay(catalog.updatedAt):null;
+const lastCollectedAt=catalog.lastCollectedAt||catalog.updatedAt;
+const lastCompletedDay=lastCollectedAt?parisDay(lastCollectedAt):null;
 if(!shouldRunDaily(new Date(),process.env.GITHUB_EVENT_NAME,lastCompletedDay)){console.log('Daily collection already completed, or before 09:00 Paris.');process.exit(0);}
 const result=spawnSync('python3',['scripts/collect.py'],{encoding:'utf8',timeout:900000,maxBuffer:12e6});
 if(result.status!==0)throw Error('Collecte indisponible, catalogue conservé.');

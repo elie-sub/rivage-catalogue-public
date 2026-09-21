@@ -34,11 +34,14 @@ jobs:
         id: collection
         continue-on-error: true
         run: node scripts/update.mjs
+      - name: Actualiser les maisons et immeubles suivis
+        if: ${{ !inputs.publish_only }}
+        run: python3 scripts/refresh-division.py
       - name: Conserver la dernière collecte
         run: |
           git config user.name 'rivage-catalogue[bot]'
           git config user.email 'rivage-catalogue@users.noreply.github.com'
-          git add data/catalog.json
+          git add data/catalog.json data/division.json
           if ! git diff --cached --quiet; then
             git commit -m 'Actualiser les annonces publiques'
             git push origin HEAD:main
@@ -47,6 +50,7 @@ jobs:
         run: |
           mkdir public
           cp data/catalog.json public/catalog.json
+          cp data/division.json public/division.json
           printf '%s' '<!doctype html><html lang="fr"><meta charset="utf-8"><title>Rivage — catalogue</title><p>Catalogue public des annonces de Granville. Disponibilité à confirmer.</p></html>' > public/index.html
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-21T13:44:58.945Z",
-  "lastAttemptAt": "2026-09-21T13:44:58.945Z",
+  "updatedAt": "2026-09-21T19:34:29.828Z",
+  "lastAttemptAt": "2026-09-21T19:34:29.828Z",
   "sources": [
     {
       "id": "pozzo",
       "name": "Pozzo Immobilier",
       "url": "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville",
       "status": "ok",
-      "checked": 66,
-      "discovered": 66,
+      "checked": 67,
+      "discovered": 67,
       "errors": 0
     },
     {
@@ -39,6 +39,20 @@
       "discovered": 0,
       "errors": 0,
       "message": "HTTP 202"
+    },
+    {
+      "id": "leboncoin",
+      "name": "Leboncoin",
+      "url": "https://www.leboncoin.fr/cl/ventes_immobilieres/cp_granville_50400/real_estate_type%3A2",
+      "status": "email_import",
+      "mode": "email",
+      "checked": 0,
+      "imported": 13,
+      "lastImportedAt": "2026-09-21T19:31:48.812Z",
+      "lastObservedAt": "2026-09-15",
+      "discovered": 13,
+      "errors": 0,
+      "message": "Alertes reçues importées ; collecte directe indisponible. Import assisté, hors collecte cloud quotidienne."
     }
   ],
   "properties": [
@@ -180,7 +194,8 @@
       "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
-        "pozzo-c3c4253ad37e"
+        "pozzo-c3c4253ad37e",
+        "leboncoin-3268530295"
       ]
     },
     {
@@ -353,7 +368,8 @@
       "firstSeenAt": "2026-09-17",
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
-        "pozzo-e2ab03f356c7"
+        "pozzo-e2ab03f356c7",
+        "leboncoin-3204290111"
       ]
     },
     {
@@ -911,7 +927,7 @@
       "rooms": 2,
       "bedrooms": null,
       "floor": null,
-      "price": 149500,
+      "price": 139500,
       "zone": "Centre annoncé",
       "center": true,
       "condition": "unknown",
@@ -945,8 +961,10 @@
       "firstSeenAt": "2026-09-18",
       "mergedIds": [],
       "listingSources": [],
-      "possibleDuplicate": false,
-      "possibleDuplicateIds": []
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "pozzo-9ca310e1199c"
+      ]
     },
     {
       "publishedAt": null,
@@ -1527,7 +1545,8 @@
       "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
-        "laforet-48"
+        "laforet-48",
+        "leboncoin-3204290111"
       ],
       "duplicateCandidateOf": "laforet-48"
     },
@@ -1714,8 +1733,10 @@
       "firstSeenAt": "2026-09-18",
       "mergedIds": [],
       "listingSources": [],
-      "possibleDuplicate": false,
-      "possibleDuplicateIds": []
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "leboncoin-3236516408"
+      ]
     },
     {
       "publishedAt": null,
@@ -1810,8 +1831,12 @@
       "firstSeenAt": "2026-09-18",
       "mergedIds": [],
       "listingSources": [],
-      "possibleDuplicate": false,
-      "possibleDuplicateIds": []
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "pozzo-941d774b53e3",
+        "pozzo-539350e562f3"
+      ],
+      "duplicateCandidateOf": "pozzo-941d774b53e3"
     },
     {
       "publishedAt": null,
@@ -2438,7 +2463,8 @@
       "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
-        "pozzo-5f21c63903c4"
+        "pozzo-5f21c63903c4",
+        "leboncoin-3227714683"
       ]
     },
     {
@@ -2977,8 +3003,12 @@
       "firstSeenAt": "2026-09-18",
       "mergedIds": [],
       "listingSources": [],
-      "possibleDuplicate": false,
-      "possibleDuplicateIds": []
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "leboncoin-3269153756",
+        "leboncoin-3259829464",
+        "leboncoin-3259244607"
+      ]
     },
     {
       "publishedAt": null,
@@ -3466,7 +3496,8 @@
       "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
-        "century-aabf605bc09a"
+        "century-aabf605bc09a",
+        "leboncoin-3069204061"
       ]
     },
     {
@@ -3566,7 +3597,8 @@
       "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
-        "pozzo-58d994802299"
+        "pozzo-58d994802299",
+        "leboncoin-3227714683"
       ],
       "duplicateCandidateOf": "pozzo-58d994802299"
     },
@@ -3613,8 +3645,10 @@
       "firstSeenAt": "2026-09-18",
       "mergedIds": [],
       "listingSources": [],
-      "possibleDuplicate": false,
-      "possibleDuplicateIds": []
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "leboncoin-3265557563"
+      ]
     },
     {
       "publishedAt": null,
@@ -3668,7 +3702,8 @@
       "possibleDuplicateIds": [
         "iad-47",
         "century-7a7f73bcc3f9",
-        "iad-37af42bb1149"
+        "iad-37af42bb1149",
+        "leboncoin-3268530295"
       ],
       "duplicateCandidateOf": "iad-47"
     },
@@ -4304,7 +4339,8 @@
       "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
-        "pozzo-699ed2823a6f"
+        "pozzo-699ed2823a6f",
+        "leboncoin-3069204061"
       ],
       "duplicateCandidateOf": "pozzo-699ed2823a6f"
     },
@@ -4354,7 +4390,8 @@
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-c3c4253ad37e",
-        "iad-37af42bb1149"
+        "iad-37af42bb1149",
+        "leboncoin-3268530295"
       ]
     },
     {
@@ -5817,7 +5854,8 @@
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-c3c4253ad37e",
-        "century-7a7f73bcc3f9"
+        "century-7a7f73bcc3f9",
+        "leboncoin-3268530295"
       ],
       "duplicateCandidateOf": "century-7a7f73bcc3f9"
     },
@@ -5863,8 +5901,11 @@
       "firstSeenAt": "2026-09-18",
       "mergedIds": [],
       "listingSources": [],
-      "possibleDuplicate": false,
-      "possibleDuplicateIds": []
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "leboncoin-3204290110",
+        "leboncoin-3228124530"
+      ]
     },
     {
       "publishedAt": null,
@@ -6142,17 +6183,916 @@
       "checked": "2026-09-21",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
-      "firstSeenAt": "2026-09-21T13:44:58.945Z",
+      "aliases": [
+        "https://century21-royer-granville.com/trouver_logement/detail/15459913743"
+      ],
+      "firstSeenAt": "2026-09-21",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "century-9f989133cce6"
       ],
       "duplicateCandidateOf": "century-9f989133cce6"
+    },
+    {
+      "id": "leboncoin-3236516408",
+      "title": "Appartement 1 pièce · 27 m²",
+      "price": 129500,
+      "area": 27,
+      "rooms": 1,
+      "source": "https://www.leboncoin.fr/ad/ventes_immobilieres/3236516408",
+      "agency": "Leboncoin",
+      "ref": "3236516408",
+      "center": false,
+      "zone": "Granville · secteur à confirmer",
+      "floor": null,
+      "bedrooms": null,
+      "condition": "unknown",
+      "dpe": "?",
+      "charges": null,
+      "tax": null,
+      "works": 29700,
+      "rent": 459,
+      "ownerCharges": 350,
+      "description": "Appartement repéré dans une alerte Leboncoin. Prix, surface et pièces issus de l’alerte ; disponibilité, étage, état et diagnostics à confirmer. Loyer et travaux sont des hypothèses modifiables.",
+      "assets": [
+        "Annonce Leboncoin"
+      ],
+      "risks": [
+        "Disponibilité actuelle non vérifiée : consulter l’annonce.",
+        "Étage, état, DPE, copropriété et occupation à confirmer.",
+        "Travaux provisionnés à 1 100 €/m², sans devis ni état constaté."
+      ],
+      "checked": "2026-09-15",
+      "sourceObservedAt": "2026-09-15",
+      "firstSeenAt": "2026-09-21T19:31:48.812Z",
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "sourceKind": "leboncoin_alert",
+      "availabilityVerified": false,
+      "automated": true,
+      "archived": false,
+      "occupied": false,
+      "priority": 20,
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "pozzo-59b4e0c5b38a"
+      ],
+      "aliases": [
+        "https://leboncoin.fr/ad/ventes_immobilieres/3236516408",
+        "https://www.leboncoin.fr/ad/ventes_immobilieres/3236516408"
+      ],
+      "listingSources": [
+        {
+          "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3236516408",
+          "agency": "Leboncoin",
+          "ref": "3236516408",
+          "price": 129500,
+          "checked": "2026-09-15",
+          "sourceKind": "leboncoin_alert",
+          "publishedAt": null
+        }
+      ],
+      "duplicateCandidateOf": "pozzo-59b4e0c5b38a"
+    },
+    {
+      "id": "leboncoin-3138465699",
+      "title": "Appartement 3 pièces · 52 m²",
+      "price": 210000,
+      "area": 52,
+      "rooms": 3,
+      "source": "https://www.leboncoin.fr/ad/ventes_immobilieres/3138465699",
+      "agency": "Leboncoin",
+      "ref": "3138465699",
+      "center": false,
+      "zone": "Granville · secteur à confirmer",
+      "floor": null,
+      "bedrooms": null,
+      "condition": "unknown",
+      "dpe": "?",
+      "charges": null,
+      "tax": null,
+      "works": 57200,
+      "rent": 780,
+      "ownerCharges": 350,
+      "description": "Appartement repéré dans une alerte Leboncoin. Prix, surface et pièces issus de l’alerte ; disponibilité, étage, état et diagnostics à confirmer. Loyer et travaux sont des hypothèses modifiables.",
+      "assets": [
+        "Annonce Leboncoin"
+      ],
+      "risks": [
+        "Disponibilité actuelle non vérifiée : consulter l’annonce.",
+        "Étage, état, DPE, copropriété et occupation à confirmer.",
+        "Travaux provisionnés à 1 100 €/m², sans devis ni état constaté."
+      ],
+      "checked": "2026-09-14",
+      "sourceObservedAt": "2026-09-14",
+      "firstSeenAt": "2026-09-21T19:31:48.812Z",
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "sourceKind": "leboncoin_alert",
+      "availabilityVerified": false,
+      "automated": true,
+      "archived": false,
+      "occupied": false,
+      "priority": 20,
+      "possibleDuplicate": false,
+      "possibleDuplicateIds": [],
+      "aliases": [
+        "https://leboncoin.fr/ad/ventes_immobilieres/3138465699",
+        "https://www.leboncoin.fr/ad/ventes_immobilieres/3138465699"
+      ],
+      "listingSources": [
+        {
+          "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3138465699",
+          "agency": "Leboncoin",
+          "ref": "3138465699",
+          "price": 210000,
+          "checked": "2026-09-14",
+          "sourceKind": "leboncoin_alert",
+          "publishedAt": null
+        }
+      ]
+    },
+    {
+      "id": "leboncoin-3204290110",
+      "title": "Appartement 2 pièces · 49 m²",
+      "price": 193500,
+      "area": 49,
+      "rooms": 2,
+      "source": "https://www.leboncoin.fr/ad/ventes_immobilieres/3204290110",
+      "agency": "Leboncoin",
+      "ref": "3204290110",
+      "center": true,
+      "zone": "Centre de Granville · annoncé",
+      "floor": null,
+      "bedrooms": null,
+      "condition": "unknown",
+      "dpe": "?",
+      "charges": null,
+      "tax": null,
+      "works": 53900,
+      "rent": 735,
+      "ownerCharges": 350,
+      "description": "Appartement repéré dans une alerte Leboncoin. Prix, surface et pièces issus de l’alerte ; disponibilité, étage, état et diagnostics à confirmer. Loyer et travaux sont des hypothèses modifiables.",
+      "assets": [
+        "Annonce Leboncoin"
+      ],
+      "risks": [
+        "Disponibilité actuelle non vérifiée : consulter l’annonce.",
+        "Étage, état, DPE, copropriété et occupation à confirmer.",
+        "Travaux provisionnés à 1 100 €/m², sans devis ni état constaté."
+      ],
+      "checked": "2026-09-14",
+      "sourceObservedAt": "2026-09-14",
+      "firstSeenAt": "2026-09-21T19:31:48.812Z",
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "sourceKind": "leboncoin_alert",
+      "availabilityVerified": false,
+      "automated": true,
+      "archived": false,
+      "occupied": false,
+      "priority": 20,
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "iad-611fb3183689",
+        "leboncoin-3228124530"
+      ],
+      "aliases": [
+        "https://leboncoin.fr/ad/ventes_immobilieres/3204290110",
+        "https://www.leboncoin.fr/ad/ventes_immobilieres/3204290110"
+      ],
+      "listingSources": [
+        {
+          "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3204290110",
+          "agency": "Leboncoin",
+          "ref": "3204290110",
+          "price": 193500,
+          "checked": "2026-09-14",
+          "sourceKind": "leboncoin_alert",
+          "publishedAt": null
+        }
+      ],
+      "duplicateCandidateOf": "iad-611fb3183689"
+    },
+    {
+      "id": "leboncoin-3204290111",
+      "title": "Appartement 2 pièces · 48 m²",
+      "price": 154500,
+      "area": 48,
+      "rooms": 2,
+      "source": "https://www.leboncoin.fr/ad/ventes_immobilieres/3204290111",
+      "agency": "Leboncoin",
+      "ref": "3204290111",
+      "center": true,
+      "zone": "Centre de Granville · annoncé",
+      "floor": null,
+      "bedrooms": null,
+      "condition": "unknown",
+      "dpe": "?",
+      "charges": null,
+      "tax": null,
+      "works": 52800,
+      "rent": 720,
+      "ownerCharges": 350,
+      "description": "Appartement repéré dans une alerte Leboncoin. Prix, surface et pièces issus de l’alerte ; disponibilité, étage, état et diagnostics à confirmer. Loyer et travaux sont des hypothèses modifiables.",
+      "assets": [
+        "Annonce Leboncoin"
+      ],
+      "risks": [
+        "Disponibilité actuelle non vérifiée : consulter l’annonce.",
+        "Étage, état, DPE, copropriété et occupation à confirmer.",
+        "Travaux provisionnés à 1 100 €/m², sans devis ni état constaté."
+      ],
+      "checked": "2026-09-14",
+      "sourceObservedAt": "2026-09-14",
+      "firstSeenAt": "2026-09-21T19:31:48.812Z",
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "sourceKind": "leboncoin_alert",
+      "availabilityVerified": false,
+      "automated": true,
+      "archived": false,
+      "occupied": false,
+      "priority": 20,
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "laforet-48",
+        "pozzo-e2ab03f356c7"
+      ],
+      "aliases": [
+        "https://leboncoin.fr/ad/ventes_immobilieres/3204290111",
+        "https://www.leboncoin.fr/ad/ventes_immobilieres/3204290111"
+      ],
+      "listingSources": [
+        {
+          "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3204290111",
+          "agency": "Leboncoin",
+          "ref": "3204290111",
+          "price": 154500,
+          "checked": "2026-09-14",
+          "sourceKind": "leboncoin_alert",
+          "publishedAt": null
+        }
+      ],
+      "duplicateCandidateOf": "laforet-48"
+    },
+    {
+      "id": "leboncoin-3269153756",
+      "title": "Appartement 4 pièces · 72.45 m²",
+      "price": 154900,
+      "area": 72.45,
+      "rooms": 4,
+      "source": "https://www.leboncoin.fr/ad/ventes_immobilieres/3269153756",
+      "agency": "Leboncoin",
+      "ref": "3269153756",
+      "center": false,
+      "zone": "Granville · secteur à confirmer",
+      "floor": null,
+      "bedrooms": null,
+      "condition": "unknown",
+      "dpe": "?",
+      "charges": null,
+      "tax": null,
+      "works": 79695,
+      "rent": 942,
+      "ownerCharges": 350,
+      "description": "Appartement repéré dans une alerte Leboncoin. Prix, surface et pièces issus de l’alerte ; disponibilité, étage, état et diagnostics à confirmer. Loyer et travaux sont des hypothèses modifiables.",
+      "assets": [
+        "Annonce Leboncoin"
+      ],
+      "risks": [
+        "Disponibilité actuelle non vérifiée : consulter l’annonce.",
+        "Étage, état, DPE, copropriété et occupation à confirmer.",
+        "Travaux provisionnés à 1 100 €/m², sans devis ni état constaté."
+      ],
+      "checked": "2026-09-14",
+      "sourceObservedAt": "2026-09-14",
+      "firstSeenAt": "2026-09-21T19:31:48.812Z",
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "sourceKind": "leboncoin_alert",
+      "availabilityVerified": false,
+      "automated": true,
+      "archived": false,
+      "occupied": false,
+      "priority": 20,
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "pozzo-5e0569705687",
+        "leboncoin-3259829464",
+        "leboncoin-3259244607"
+      ],
+      "aliases": [
+        "https://leboncoin.fr/ad/ventes_immobilieres/3269153756",
+        "https://www.leboncoin.fr/ad/ventes_immobilieres/3269153756"
+      ],
+      "listingSources": [
+        {
+          "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3269153756",
+          "agency": "Leboncoin",
+          "ref": "3269153756",
+          "price": 154900,
+          "checked": "2026-09-14",
+          "sourceKind": "leboncoin_alert",
+          "publishedAt": null
+        }
+      ],
+      "duplicateCandidateOf": "pozzo-5e0569705687"
+    },
+    {
+      "id": "leboncoin-3268530295",
+      "title": "Appartement 2 pièces · 47 m²",
+      "price": 159000,
+      "area": 47,
+      "rooms": 2,
+      "source": "https://www.leboncoin.fr/ad/ventes_immobilieres/3268530295",
+      "agency": "Leboncoin",
+      "ref": "3268530295",
+      "center": false,
+      "zone": "Granville · secteur à confirmer",
+      "floor": null,
+      "bedrooms": null,
+      "condition": "unknown",
+      "dpe": "?",
+      "charges": null,
+      "tax": null,
+      "works": 51700,
+      "rent": 705,
+      "ownerCharges": 350,
+      "description": "Appartement repéré dans une alerte Leboncoin. Prix, surface et pièces issus de l’alerte ; disponibilité, étage, état et diagnostics à confirmer. Loyer et travaux sont des hypothèses modifiables.",
+      "assets": [
+        "Annonce Leboncoin"
+      ],
+      "risks": [
+        "Disponibilité actuelle non vérifiée : consulter l’annonce.",
+        "Étage, état, DPE, copropriété et occupation à confirmer.",
+        "Travaux provisionnés à 1 100 €/m², sans devis ni état constaté."
+      ],
+      "checked": "2026-09-13",
+      "sourceObservedAt": "2026-09-13",
+      "firstSeenAt": "2026-09-21T19:31:48.812Z",
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "sourceKind": "leboncoin_alert",
+      "availabilityVerified": false,
+      "automated": true,
+      "archived": false,
+      "occupied": false,
+      "priority": 20,
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "iad-47",
+        "pozzo-c3c4253ad37e",
+        "century-7a7f73bcc3f9",
+        "iad-37af42bb1149"
+      ],
+      "aliases": [
+        "https://leboncoin.fr/ad/ventes_immobilieres/3268530295",
+        "https://www.leboncoin.fr/ad/ventes_immobilieres/3268530295"
+      ],
+      "listingSources": [
+        {
+          "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3268530295",
+          "agency": "Leboncoin",
+          "ref": "3268530295",
+          "price": 159000,
+          "checked": "2026-09-13",
+          "sourceKind": "leboncoin_alert",
+          "publishedAt": null
+        }
+      ],
+      "duplicateCandidateOf": "iad-47"
+    },
+    {
+      "id": "leboncoin-3265557563",
+      "title": "Appartement 2 pièces · 31 m²",
+      "price": 128000,
+      "area": 31,
+      "rooms": 2,
+      "source": "https://www.leboncoin.fr/ad/ventes_immobilieres/3265557563",
+      "agency": "Leboncoin",
+      "ref": "3265557563",
+      "center": false,
+      "zone": "Granville · secteur à confirmer",
+      "floor": null,
+      "bedrooms": null,
+      "condition": "unknown",
+      "dpe": "?",
+      "charges": null,
+      "tax": null,
+      "works": 34100,
+      "rent": 527,
+      "ownerCharges": 350,
+      "description": "Appartement repéré dans une alerte Leboncoin. Prix, surface et pièces issus de l’alerte ; disponibilité, étage, état et diagnostics à confirmer. Loyer et travaux sont des hypothèses modifiables.",
+      "assets": [
+        "Annonce Leboncoin"
+      ],
+      "risks": [
+        "Disponibilité actuelle non vérifiée : consulter l’annonce.",
+        "Étage, état, DPE, copropriété et occupation à confirmer.",
+        "Travaux provisionnés à 1 100 €/m², sans devis ni état constaté."
+      ],
+      "checked": "2026-09-08",
+      "sourceObservedAt": "2026-09-08",
+      "firstSeenAt": "2026-09-21T19:31:48.812Z",
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "sourceKind": "leboncoin_alert",
+      "availabilityVerified": false,
+      "automated": true,
+      "archived": false,
+      "occupied": false,
+      "priority": 20,
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "pozzo-0f80e07a3377"
+      ],
+      "aliases": [
+        "https://leboncoin.fr/ad/ventes_immobilieres/3265557563",
+        "https://www.leboncoin.fr/ad/ventes_immobilieres/3265557563"
+      ],
+      "listingSources": [
+        {
+          "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3265557563",
+          "agency": "Leboncoin",
+          "ref": "3265557563",
+          "price": 128000,
+          "checked": "2026-09-08",
+          "sourceKind": "leboncoin_alert",
+          "publishedAt": null
+        }
+      ],
+      "duplicateCandidateOf": "pozzo-0f80e07a3377"
+    },
+    {
+      "id": "leboncoin-3069204061",
+      "title": "Appartement 2 pièces · 47 m²",
+      "price": 195500,
+      "area": 47,
+      "rooms": 2,
+      "source": "https://www.leboncoin.fr/ad/ventes_immobilieres/3069204061",
+      "agency": "Leboncoin",
+      "ref": "3069204061",
+      "center": false,
+      "zone": "Granville · secteur à confirmer",
+      "floor": null,
+      "bedrooms": null,
+      "condition": "unknown",
+      "dpe": "?",
+      "charges": null,
+      "tax": null,
+      "works": 51700,
+      "rent": 705,
+      "ownerCharges": 350,
+      "description": "Appartement repéré dans une alerte Leboncoin. Prix, surface et pièces issus de l’alerte ; disponibilité, étage, état et diagnostics à confirmer. Loyer et travaux sont des hypothèses modifiables.",
+      "assets": [
+        "Annonce Leboncoin"
+      ],
+      "risks": [
+        "Disponibilité actuelle non vérifiée : consulter l’annonce.",
+        "Étage, état, DPE, copropriété et occupation à confirmer.",
+        "Travaux provisionnés à 1 100 €/m², sans devis ni état constaté."
+      ],
+      "checked": "2026-09-05",
+      "sourceObservedAt": "2026-09-05",
+      "firstSeenAt": "2026-09-21T19:31:48.812Z",
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "sourceKind": "leboncoin_alert",
+      "availabilityVerified": false,
+      "automated": true,
+      "archived": false,
+      "occupied": false,
+      "priority": 20,
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "pozzo-699ed2823a6f",
+        "century-aabf605bc09a"
+      ],
+      "aliases": [
+        "https://leboncoin.fr/ad/ventes_immobilieres/3069204061",
+        "https://www.leboncoin.fr/ad/ventes_immobilieres/3069204061"
+      ],
+      "listingSources": [
+        {
+          "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3069204061",
+          "agency": "Leboncoin",
+          "ref": "3069204061",
+          "price": 195500,
+          "checked": "2026-09-05",
+          "sourceKind": "leboncoin_alert",
+          "publishedAt": null
+        }
+      ],
+      "duplicateCandidateOf": "pozzo-699ed2823a6f"
+    },
+    {
+      "id": "leboncoin-3229980886",
+      "title": "Appartement 4 pièces · 133 m²",
+      "price": 350000,
+      "area": 133,
+      "rooms": 4,
+      "source": "https://www.leboncoin.fr/ad/ventes_immobilieres/3229980886",
+      "agency": "Leboncoin",
+      "ref": "3229980886",
+      "center": true,
+      "zone": "Centre de Granville · annoncé",
+      "floor": null,
+      "bedrooms": null,
+      "condition": "unknown",
+      "dpe": "?",
+      "charges": null,
+      "tax": null,
+      "works": 146300,
+      "rent": 950,
+      "ownerCharges": 350,
+      "description": "Appartement repéré dans une alerte Leboncoin. Prix, surface et pièces issus de l’alerte ; disponibilité, étage, état et diagnostics à confirmer. Loyer et travaux sont des hypothèses modifiables.",
+      "assets": [
+        "Annonce Leboncoin"
+      ],
+      "risks": [
+        "Disponibilité actuelle non vérifiée : consulter l’annonce.",
+        "Étage, état, DPE, copropriété et occupation à confirmer.",
+        "Travaux provisionnés à 1 100 €/m², sans devis ni état constaté."
+      ],
+      "checked": "2026-09-03",
+      "sourceObservedAt": "2026-09-03",
+      "firstSeenAt": "2026-09-21T19:31:48.812Z",
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "sourceKind": "leboncoin_alert",
+      "availabilityVerified": false,
+      "automated": true,
+      "archived": false,
+      "occupied": false,
+      "priority": 20,
+      "possibleDuplicate": false,
+      "possibleDuplicateIds": [],
+      "aliases": [
+        "https://leboncoin.fr/ad/ventes_immobilieres/3229980886",
+        "https://www.leboncoin.fr/ad/ventes_immobilieres/3229980886"
+      ],
+      "listingSources": [
+        {
+          "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3229980886",
+          "agency": "Leboncoin",
+          "ref": "3229980886",
+          "price": 350000,
+          "checked": "2026-09-03",
+          "sourceKind": "leboncoin_alert",
+          "publishedAt": null
+        }
+      ]
+    },
+    {
+      "id": "leboncoin-3228124530",
+      "title": "Appartement 2 pièces · 49 m²",
+      "price": 195500,
+      "area": 49,
+      "rooms": 2,
+      "source": "https://www.leboncoin.fr/ad/ventes_immobilieres/3228124530",
+      "agency": "Leboncoin",
+      "ref": "3228124530",
+      "center": true,
+      "zone": "Centre de Granville · annoncé",
+      "floor": null,
+      "bedrooms": null,
+      "condition": "unknown",
+      "dpe": "?",
+      "charges": null,
+      "tax": null,
+      "works": 53900,
+      "rent": 735,
+      "ownerCharges": 350,
+      "description": "Appartement repéré dans une alerte Leboncoin. Prix, surface et pièces issus de l’alerte ; disponibilité, étage, état et diagnostics à confirmer. Loyer et travaux sont des hypothèses modifiables.",
+      "assets": [
+        "Annonce Leboncoin"
+      ],
+      "risks": [
+        "Disponibilité actuelle non vérifiée : consulter l’annonce.",
+        "Étage, état, DPE, copropriété et occupation à confirmer.",
+        "Travaux provisionnés à 1 100 €/m², sans devis ni état constaté."
+      ],
+      "checked": "2026-08-31",
+      "sourceObservedAt": "2026-08-31",
+      "firstSeenAt": "2026-09-21T19:31:48.812Z",
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "sourceKind": "leboncoin_alert",
+      "availabilityVerified": false,
+      "automated": true,
+      "archived": false,
+      "occupied": false,
+      "priority": 20,
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "iad-611fb3183689",
+        "leboncoin-3204290110"
+      ],
+      "aliases": [
+        "https://leboncoin.fr/ad/ventes_immobilieres/3228124530",
+        "https://www.leboncoin.fr/ad/ventes_immobilieres/3228124530"
+      ],
+      "listingSources": [
+        {
+          "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3228124530",
+          "agency": "Leboncoin",
+          "ref": "3228124530",
+          "price": 195500,
+          "checked": "2026-08-31",
+          "sourceKind": "leboncoin_alert",
+          "publishedAt": null
+        }
+      ],
+      "duplicateCandidateOf": "iad-611fb3183689"
+    },
+    {
+      "id": "leboncoin-3259829464",
+      "title": "Appartement 4 pièces · 72.45 m²",
+      "price": 154900,
+      "area": 72.45,
+      "rooms": 4,
+      "source": "https://www.leboncoin.fr/ad/ventes_immobilieres/3259829464",
+      "agency": "Leboncoin",
+      "ref": "3259829464",
+      "center": false,
+      "zone": "Granville · secteur à confirmer",
+      "floor": null,
+      "bedrooms": null,
+      "condition": "unknown",
+      "dpe": "?",
+      "charges": null,
+      "tax": null,
+      "works": 79695,
+      "rent": 942,
+      "ownerCharges": 350,
+      "description": "Appartement repéré dans une alerte Leboncoin. Prix, surface et pièces issus de l’alerte ; disponibilité, étage, état et diagnostics à confirmer. Loyer et travaux sont des hypothèses modifiables.",
+      "assets": [
+        "Annonce Leboncoin"
+      ],
+      "risks": [
+        "Disponibilité actuelle non vérifiée : consulter l’annonce.",
+        "Étage, état, DPE, copropriété et occupation à confirmer.",
+        "Travaux provisionnés à 1 100 €/m², sans devis ni état constaté."
+      ],
+      "checked": "2026-08-31",
+      "sourceObservedAt": "2026-08-31",
+      "firstSeenAt": "2026-09-21T19:31:48.812Z",
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "sourceKind": "leboncoin_alert",
+      "availabilityVerified": false,
+      "automated": true,
+      "archived": false,
+      "occupied": false,
+      "priority": 20,
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "pozzo-5e0569705687",
+        "leboncoin-3269153756",
+        "leboncoin-3259244607"
+      ],
+      "aliases": [
+        "https://leboncoin.fr/ad/ventes_immobilieres/3259829464",
+        "https://www.leboncoin.fr/ad/ventes_immobilieres/3259829464"
+      ],
+      "listingSources": [
+        {
+          "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3259829464",
+          "agency": "Leboncoin",
+          "ref": "3259829464",
+          "price": 154900,
+          "checked": "2026-08-31",
+          "sourceKind": "leboncoin_alert",
+          "publishedAt": null
+        }
+      ],
+      "duplicateCandidateOf": "pozzo-5e0569705687"
+    },
+    {
+      "id": "leboncoin-3227714683",
+      "title": "Appartement 3 pièces · 56 m²",
+      "price": 160000,
+      "area": 56,
+      "rooms": 3,
+      "source": "https://www.leboncoin.fr/ad/ventes_immobilieres/3227714683",
+      "agency": "Leboncoin",
+      "ref": "3227714683",
+      "center": false,
+      "zone": "Granville · secteur à confirmer",
+      "floor": null,
+      "bedrooms": null,
+      "condition": "unknown",
+      "dpe": "?",
+      "charges": null,
+      "tax": null,
+      "works": 61600,
+      "rent": 728,
+      "ownerCharges": 350,
+      "description": "Appartement repéré dans une alerte Leboncoin. Prix, surface et pièces issus de l’alerte ; disponibilité, étage, état et diagnostics à confirmer. Loyer et travaux sont des hypothèses modifiables.",
+      "assets": [
+        "Annonce Leboncoin"
+      ],
+      "risks": [
+        "Disponibilité actuelle non vérifiée : consulter l’annonce.",
+        "Étage, état, DPE, copropriété et occupation à confirmer.",
+        "Travaux provisionnés à 1 100 €/m², sans devis ni état constaté."
+      ],
+      "checked": "2026-08-30",
+      "sourceObservedAt": "2026-08-30",
+      "firstSeenAt": "2026-09-21T19:31:48.812Z",
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "sourceKind": "leboncoin_alert",
+      "availabilityVerified": false,
+      "automated": true,
+      "archived": false,
+      "occupied": false,
+      "priority": 20,
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "pozzo-58d994802299",
+        "pozzo-5f21c63903c4"
+      ],
+      "aliases": [
+        "https://leboncoin.fr/ad/ventes_immobilieres/3227714683",
+        "https://www.leboncoin.fr/ad/ventes_immobilieres/3227714683"
+      ],
+      "listingSources": [
+        {
+          "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3227714683",
+          "agency": "Leboncoin",
+          "ref": "3227714683",
+          "price": 160000,
+          "checked": "2026-08-30",
+          "sourceKind": "leboncoin_alert",
+          "publishedAt": null
+        }
+      ],
+      "duplicateCandidateOf": "pozzo-58d994802299"
+    },
+    {
+      "id": "leboncoin-3259244607",
+      "title": "Appartement 4 pièces · 72.45 m²",
+      "price": 154900,
+      "area": 72.45,
+      "rooms": 4,
+      "source": "https://www.leboncoin.fr/ad/ventes_immobilieres/3259244607",
+      "agency": "Leboncoin",
+      "ref": "3259244607",
+      "center": false,
+      "zone": "Granville · secteur à confirmer",
+      "floor": null,
+      "bedrooms": null,
+      "condition": "unknown",
+      "dpe": "?",
+      "charges": null,
+      "tax": null,
+      "works": 79695,
+      "rent": 942,
+      "ownerCharges": 350,
+      "description": "Appartement repéré dans une alerte Leboncoin. Prix, surface et pièces issus de l’alerte ; disponibilité, étage, état et diagnostics à confirmer. Loyer et travaux sont des hypothèses modifiables.",
+      "assets": [
+        "Annonce Leboncoin"
+      ],
+      "risks": [
+        "Disponibilité actuelle non vérifiée : consulter l’annonce.",
+        "Étage, état, DPE, copropriété et occupation à confirmer.",
+        "Travaux provisionnés à 1 100 €/m², sans devis ni état constaté."
+      ],
+      "checked": "2026-08-30",
+      "sourceObservedAt": "2026-08-30",
+      "firstSeenAt": "2026-09-21T19:31:48.812Z",
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "sourceKind": "leboncoin_alert",
+      "availabilityVerified": false,
+      "automated": true,
+      "archived": false,
+      "occupied": false,
+      "priority": 20,
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "pozzo-5e0569705687",
+        "leboncoin-3269153756",
+        "leboncoin-3259829464"
+      ],
+      "aliases": [
+        "https://leboncoin.fr/ad/ventes_immobilieres/3259244607",
+        "https://www.leboncoin.fr/ad/ventes_immobilieres/3259244607"
+      ],
+      "listingSources": [
+        {
+          "url": "https://www.leboncoin.fr/ad/ventes_immobilieres/3259244607",
+          "agency": "Leboncoin",
+          "ref": "3259244607",
+          "price": 154900,
+          "checked": "2026-08-30",
+          "sourceKind": "leboncoin_alert",
+          "publishedAt": null
+        }
+      ],
+      "duplicateCandidateOf": "pozzo-5e0569705687"
+    },
+    {
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "id": "pozzo-67e0c4b70ca9",
+      "title": "5 pièces · 93 m² à Granville",
+      "area": 93,
+      "rooms": 5,
+      "bedrooms": null,
+      "floor": null,
+      "price": 320000,
+      "zone": "Granville · secteur à confirmer",
+      "center": false,
+      "condition": "unknown",
+      "dpe": "?",
+      "agency": "Pozzo Immobilier",
+      "ref": "54186",
+      "charges": null,
+      "tax": null,
+      "ownerCharges": 350,
+      "works": 102500,
+      "rent": 950,
+      "occupied": false,
+      "source": "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/appartement-granville-5-piece-s-3-chambres-vue-sur-mer/116779",
+      "photo": "https://s3.eu-west-3.amazonaws.com/prod-enligne.immo-uploads/medias/P498/AkchQP0bNu/Appartement_Granville_5_piece_s_3_chambres_VUE_SUR_MER_0.webp",
+      "description": "Appartement de 93 m² et 5 pièces à Granville. Caractéristiques extraites de la fiche de l’agence ; les montants de travaux et de loyer sont des hypothèses de simulation.",
+      "assets": [
+        "Balcon annoncé",
+        "Cave annoncée",
+        "Parking annoncé"
+      ],
+      "risks": [
+        "Loyer et travaux : hypothèses automatiques de présélection, à confirmer par avis locatifs et devis.",
+        "Adresse exacte, copropriété et disponibilité à confirmer auprès de l’agence.",
+        "Étage non établi par les données lisibles.",
+        "Hypercentre non confirmé par le descriptif.",
+        "DPE et faisabilité de la rénovation énergétique à vérifier avant toute décision."
+      ],
+      "priority": 20,
+      "archived": false,
+      "checked": "2026-09-21",
+      "automated": true,
+      "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
+      "firstSeenAt": "2026-09-21T19:34:29.828Z",
+      "possibleDuplicate": false,
+      "possibleDuplicateIds": []
+    },
+    {
+      "publishedAt": null,
+      "publicationEvidence": null,
+      "id": "pozzo-539350e562f3",
+      "title": "2 pièces · 29 m² à Granville",
+      "area": 29,
+      "rooms": 2,
+      "bedrooms": null,
+      "floor": null,
+      "price": 133000,
+      "zone": "Granville · secteur à confirmer",
+      "center": false,
+      "condition": "unknown",
+      "dpe": "?",
+      "agency": "Pozzo Immobilier",
+      "ref": "54198",
+      "charges": null,
+      "tax": null,
+      "ownerCharges": 350,
+      "works": 32000,
+      "rent": 435,
+      "occupied": false,
+      "source": "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville/granville-appartement-t2-en-vente/116776",
+      "photo": "https://s3.eu-west-3.amazonaws.com/prod-enligne.immo-uploads/medias/P517/J7Le6sDXkN/GRANVILLE_appartement_T2_en_vente_0.webp",
+      "description": "Appartement de 29 m² et 2 pièces à Granville. Caractéristiques extraites de la fiche de l’agence ; les montants de travaux et de loyer sont des hypothèses de simulation.",
+      "assets": [
+        "Cave annoncée"
+      ],
+      "risks": [
+        "Loyer et travaux : hypothèses automatiques de présélection, à confirmer par avis locatifs et devis.",
+        "Adresse exacte, copropriété et disponibilité à confirmer auprès de l’agence.",
+        "Étage non établi par les données lisibles.",
+        "Hypercentre non confirmé par le descriptif.",
+        "DPE et faisabilité de la rénovation énergétique à vérifier avant toute décision."
+      ],
+      "priority": 20,
+      "archived": false,
+      "checked": "2026-09-21",
+      "automated": true,
+      "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
+      "firstSeenAt": "2026-09-21T19:34:29.828Z",
+      "possibleDuplicate": true,
+      "possibleDuplicateIds": [
+        "pozzo-9ca310e1199c"
+      ]
     }
   ],
   "deduplication": {
-    "checkedAt": "2026-09-21T13:44:58.945Z",
+    "checkedAt": "2026-09-21T19:34:29.828Z",
     "confirmedMerged": 0,
-    "hiddenCandidates": 18
-  }
+    "hiddenCandidates": 30
+  },
+  "lastCollectedAt": "2026-09-21T19:34:29.828Z"
 }

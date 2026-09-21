@@ -29,6 +29,6 @@ export function reconcile(catalog,state,incoming,now=new Date().toISOString()){
  const updated={...state,seenIds:[...seen],pendingAlerts:[...pending],lastAttemptAt:now};
  const successful=incoming.sources.some(s=>s.checked>0);
  if(successful)updated.lastCompletedDay=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Paris'}).format(new Date(now));
- const output={schema:1,updatedAt:successful?now:catalog.updatedAt,lastAttemptAt:now,sources:incoming.sources,properties:all,deduplication:{checkedAt:now,confirmedMerged:audit.confirmedMerged,hiddenCandidates:audit.hiddenCandidates}};
+ const output={schema:1,lastCollectedAt:successful?now:(catalog.lastCollectedAt||catalog.updatedAt),updatedAt:successful?now:catalog.updatedAt,lastAttemptAt:now,sources:incoming.sources,properties:all,deduplication:{checkedAt:now,confirmedMerged:audit.confirmedMerged,hiddenCandidates:audit.hiddenCandidates}};
  return {catalog:output,state:updated,added,changed,successful};
 }

@@ -38,5 +38,5 @@ export function attachLeboncoin(catalog,snapshot,now=catalog.updatedAt){
  }
  const audit=auditDuplicates(all);
  const source={id:'leboncoin',name:'Leboncoin',url:searchUrl,status:'email_import',mode:'email',checked:0,imported:facts.length,lastImportedAt:snapshot.importedAt,lastObservedAt:facts[0]?.observedAt||null,discovered:facts.length,errors:0,message:'Alertes reçues importées ; collecte directe indisponible. Import assisté, hors collecte cloud quotidienne.'};
- return {...catalog,updatedAt:now,sources:[...catalog.sources.filter(s=>s.id!=='leboncoin'),source],properties:audit.properties,deduplication:{checkedAt:now,confirmedMerged:audit.confirmedMerged,hiddenCandidates:audit.hiddenCandidates}};
+ return {...catalog,lastCollectedAt:catalog.lastCollectedAt||catalog.updatedAt,updatedAt:now,sources:[...catalog.sources.filter(s=>s.id!=='leboncoin'),source],properties:audit.properties,deduplication:{checkedAt:now,confirmedMerged:audit.confirmedMerged,hiddenCandidates:audit.hiddenCandidates}};
 }
