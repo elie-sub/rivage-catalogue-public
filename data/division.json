@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-22T12:28:03.626102+00:00",
+  "updatedAt": "2026-09-23T12:40:20.430688+00:00",
   "coverage": "Sélection étudiée, non exhaustive. Les données non revérifiées conservent leur date. Aucune division n’est validée à ce stade.",
   "properties": [
     {
@@ -8,7 +8,7 @@
       "title": "Maison à rénover · premier projet de division",
       "type": "Maison",
       "kind": "create",
-      "price": 249000.0,
+      "price": 223500.0,
       "area": 87.3,
       "rentableArea": 72,
       "zone": "Granville · adresse à préciser",
@@ -43,12 +43,12 @@
       "priority": 1,
       "city": "Granville",
       "postcode": "50400",
-      "checked": "2026-09-22",
+      "checked": "2026-09-23",
       "firstSeenAt": "2026-09-21T19:36:34.718003+00:00",
       "publishedAt": null,
       "verification": "direct",
       "photo": "https://s3.eu-west-3.amazonaws.com/prod-enligne.immo-uploads/medias/P975/yoDw2tZZjz/Maison_Granville_4_piece_s_87_3_m2_0_origsmall.webp",
-      "lastAttemptAt": "2026-09-22T12:27:58.473202+00:00",
+      "lastAttemptAt": "2026-09-23T12:40:13.297406+00:00",
       "refreshStatus": "ok",
       "photos": [
         "https://s3.eu-west-3.amazonaws.com/prod-enligne.immo-uploads/medias/P975/yoDw2tZZjz/Maison_Granville_4_piece_s_87_3_m2_0_origsmall.webp"
@@ -116,7 +116,7 @@
       "publishedAt": null,
       "verification": "web_research",
       "photo": "https://www.ouestfrance-immo.com/photo-vente-maison-granville-50/207/maison-a-vendre-granville-20138509_1_1779184404_36ee0ccc7bd3834722cf429350a661d01de50464_rcrop_650-487_.jpg",
-      "lastAttemptAt": "2026-09-22T12:27:58.473763+00:00",
+      "lastAttemptAt": "2026-09-23T12:40:13.297885+00:00",
       "refreshStatus": "unavailable",
       "refreshMessage": "Données structurées non exploitables ; observation précédente conservée",
       "photos": [
@@ -185,7 +185,7 @@
       "publishedAt": null,
       "verification": "web_research",
       "photo": null,
-      "lastAttemptAt": "2026-09-22T12:27:58.474113+00:00",
+      "lastAttemptAt": "2026-09-23T12:40:13.298172+00:00",
       "refreshStatus": "unavailable",
       "refreshMessage": "Données structurées non exploitables ; observation précédente conservée"
     },
@@ -239,7 +239,7 @@
       "publishedAt": null,
       "verification": "web_research",
       "photo": "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-316200f7145396629e4d.jpg?height=500&width=750",
-      "lastAttemptAt": "2026-09-22T12:28:00.682165+00:00",
+      "lastAttemptAt": "2026-09-23T12:40:17.201860+00:00",
       "refreshStatus": "unavailable",
       "refreshMessage": "HTTP Error 403: Forbidden",
       "photos": [
@@ -324,7 +324,7 @@
       "publishedAt": null,
       "verification": "web_research",
       "photo": "https://photos.notariat.services/photos/60584668a.jpg",
-      "lastAttemptAt": "2026-09-22T12:28:00.976023+00:00",
+      "lastAttemptAt": "2026-09-23T12:40:17.498273+00:00",
       "refreshStatus": "unavailable",
       "refreshMessage": "Données structurées non exploitables ; observation précédente conservée",
       "photos": [
@@ -398,7 +398,7 @@
       "publishedAt": null,
       "verification": "web_research",
       "photo": "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-1.jpg",
-      "lastAttemptAt": "2026-09-22T12:28:02.460770+00:00",
+      "lastAttemptAt": "2026-09-23T12:40:20.195511+00:00",
       "refreshStatus": "unavailable",
       "refreshMessage": "HTTP Error 403: Forbidden",
       "photos": [
@@ -419,6 +419,6 @@
       "photosCheckedAt": "2026-09-21T20:18:08.828446+00:00"
     }
   ],
-  "lastAttemptAt": "2026-09-22T12:28:03.626102+00:00",
+  "lastAttemptAt": "2026-09-23T12:40:20.430688+00:00",
   "mediaUpdatedAt": "2026-09-21T20:18:08.828454+00:00"
 }
