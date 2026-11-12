@@ -48,7 +48,7 @@
       "publishedAt": null,
       "verification": "direct",
       "photo": "https://s3.eu-west-3.amazonaws.com/prod-enligne.immo-uploads/medias/P975/yoDw2tZZjz/Maison_Granville_4_piece_s_87_3_m2_0_origsmall.webp",
-      "lastAttemptAt": "2026-11-11T15:00:52.519303+00:00",
+      "lastAttemptAt": "2026-11-12T15:52:23.389221+00:00",
       "refreshStatus": "unavailable",
       "photos": [
         "https://s3.eu-west-3.amazonaws.com/prod-enligne.immo-uploads/medias/P975/yoDw2tZZjz/Maison_Granville_4_piece_s_87_3_m2_0_origsmall.webp"
@@ -117,7 +117,7 @@
       "publishedAt": null,
       "verification": "web_research",
       "photo": "https://www.ouestfrance-immo.com/photo-vente-maison-granville-50/207/maison-a-vendre-granville-20138509_1_1779184404_36ee0ccc7bd3834722cf429350a661d01de50464_rcrop_650-487_.jpg",
-      "lastAttemptAt": "2026-11-11T15:00:52.520051+00:00",
+      "lastAttemptAt": "2026-11-12T15:52:23.389854+00:00",
       "refreshStatus": "unavailable",
       "refreshMessage": "Données structurées non exploitables ; observation précédente conservée",
       "photos": [
@@ -186,7 +186,7 @@
       "publishedAt": null,
       "verification": "web_research",
       "photo": null,
-      "lastAttemptAt": "2026-11-11T15:00:52.520491+00:00",
+      "lastAttemptAt": "2026-11-12T15:52:23.390271+00:00",
       "refreshStatus": "unavailable",
       "refreshMessage": "Données structurées non exploitables ; observation précédente conservée"
     },
@@ -240,7 +240,7 @@
       "publishedAt": null,
       "verification": "web_research",
       "photo": "https://cdn3.french-property.com/agency_3772/Aqy6gi8c6whjy1l3/3772-Aqy6gi8c6whjy1l3-316200f7145396629e4d.jpg?height=500&width=750",
-      "lastAttemptAt": "2026-11-11T15:00:56.678626+00:00",
+      "lastAttemptAt": "2026-11-12T15:52:26.284674+00:00",
       "refreshStatus": "unavailable",
       "refreshMessage": "HTTP Error 403: Forbidden",
       "photos": [
@@ -325,7 +325,7 @@
       "publishedAt": null,
       "verification": "web_research",
       "photo": "https://photos.notariat.services/photos/60584668a.jpg",
-      "lastAttemptAt": "2026-11-11T15:00:56.745365+00:00",
+      "lastAttemptAt": "2026-11-12T15:52:26.309067+00:00",
       "refreshStatus": "unavailable",
       "refreshMessage": "Données structurées non exploitables ; observation précédente conservée",
       "photos": [
@@ -399,7 +399,7 @@
       "publishedAt": null,
       "verification": "web_research",
       "photo": "https://images.proprietes-privees.com/annonce/442879FSN/PROPRIETES-PRIVEES-442879FSN-1.jpg",
-      "lastAttemptAt": "2026-11-11T15:00:56.777735+00:00",
+      "lastAttemptAt": "2026-11-12T15:52:26.349942+00:00",
       "refreshStatus": "unavailable",
       "refreshMessage": "HTTP Error 403: Forbidden",
       "photos": [
@@ -420,6 +420,6 @@
       "photosCheckedAt": "2026-09-21T20:18:08.828446+00:00"
     }
   ],
-  "lastAttemptAt": "2026-11-11T15:00:59.604805+00:00",
+  "lastAttemptAt": "2026-11-12T15:52:27.859919+00:00",
   "mediaUpdatedAt": "2026-09-21T20:18:08.828454+00:00"
 }
