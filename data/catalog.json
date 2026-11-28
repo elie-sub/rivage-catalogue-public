@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "lastCollectedAt": "2026-11-27T17:19:03.717Z",
-  "updatedAt": "2026-11-27T17:19:03.717Z",
-  "lastAttemptAt": "2026-11-27T17:19:03.717Z",
+  "lastCollectedAt": "2026-11-28T16:01:29.362Z",
+  "updatedAt": "2026-11-28T16:01:29.362Z",
+  "lastAttemptAt": "2026-11-28T16:01:29.362Z",
   "sources": [
     {
       "id": "pozzo",
       "name": "Pozzo Immobilier",
       "url": "https://www.pozzo-immobilier.fr/fr/immobilier/vente/appartement/granville",
       "status": "ok",
-      "checked": 85,
-      "discovered": 85,
+      "checked": 84,
+      "discovered": 84,
       "errors": 0
     },
     {
@@ -18,8 +18,8 @@
       "name": "Century 21 Royer Immo",
       "url": "https://www.century21-royer-granville.com/annonces/achat-appartement/v-granville/",
       "status": "ok",
-      "checked": 31,
-      "discovered": 31,
+      "checked": 30,
+      "discovered": 30,
       "errors": 0
     },
     {
@@ -184,7 +184,7 @@
       ],
       "priority": 3,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": false,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -231,7 +231,7 @@
       ],
       "priority": 4,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": false,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -316,7 +316,7 @@
       ],
       "priority": 8,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": false,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -666,7 +666,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -715,7 +715,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -764,7 +764,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -812,7 +812,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -861,7 +861,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -907,7 +907,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -953,7 +953,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1001,7 +1001,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1098,7 +1098,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1196,7 +1196,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1243,7 +1243,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1340,7 +1340,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1390,7 +1390,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1441,7 +1441,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1493,7 +1493,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1541,7 +1541,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1590,7 +1590,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1636,7 +1636,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1681,7 +1681,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1783,7 +1783,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1885,7 +1885,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -1932,7 +1932,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -2027,7 +2027,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -2176,7 +2176,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -2226,7 +2226,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -2274,7 +2274,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -2324,7 +2324,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -2371,7 +2371,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -2417,7 +2417,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -2466,7 +2466,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -2521,7 +2521,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -2672,7 +2672,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -2871,7 +2871,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -2921,7 +2921,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -2973,7 +2973,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -3078,7 +3078,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -3129,7 +3129,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -3179,7 +3179,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -3226,7 +3226,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -3326,7 +3326,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -3523,7 +3523,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -3574,7 +3574,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -3623,7 +3623,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -3673,7 +3673,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -3726,7 +3726,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -3819,7 +3819,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -3868,7 +3868,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -3918,7 +3918,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4070,7 +4070,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4119,7 +4119,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4169,7 +4169,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4216,7 +4216,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4265,7 +4265,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4314,7 +4314,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4362,7 +4362,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4410,7 +4410,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4460,7 +4460,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4509,7 +4509,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4607,7 +4607,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4653,7 +4653,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4699,7 +4699,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4746,7 +4746,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4793,7 +4793,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4840,7 +4840,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4889,7 +4889,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4937,7 +4937,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -4991,7 +4991,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5044,7 +5044,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5212,7 +5212,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5259,7 +5259,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5359,7 +5359,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5406,7 +5406,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5590,7 +5590,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5635,7 +5635,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5679,7 +5679,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5726,7 +5726,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5774,7 +5774,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5827,7 +5827,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5872,7 +5872,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5919,7 +5919,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -5969,7 +5969,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -6064,7 +6064,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -6110,7 +6110,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -6158,7 +6158,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -6208,7 +6208,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -7064,7 +7064,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -7161,7 +7161,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -7208,7 +7208,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -7353,7 +7353,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -7402,7 +7402,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -7688,7 +7688,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -7736,7 +7736,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -7882,7 +7882,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8081,7 +8081,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8131,7 +8131,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8178,7 +8178,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8230,7 +8230,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8277,7 +8277,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8373,7 +8373,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8419,7 +8419,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8469,7 +8469,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8563,7 +8563,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8615,7 +8615,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8664,7 +8664,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8757,7 +8757,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8803,7 +8803,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8848,7 +8848,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8898,7 +8898,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8948,7 +8948,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -8998,7 +8998,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -9048,7 +9048,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -9100,7 +9100,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -9153,7 +9153,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -9205,7 +9205,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -9258,7 +9258,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -9308,7 +9308,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -9358,7 +9358,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -9411,7 +9411,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -9461,7 +9461,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -9559,7 +9559,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -9608,7 +9608,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -9658,7 +9658,7 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
       "aliases": [
@@ -9711,10 +9711,15 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
-      "firstSeenAt": "2026-11-27T17:19:03.717Z",
+      "aliases": [
+        "https://century21-royer-granville.com/trouver_logement/detail/17117219945"
+      ],
+      "firstSeenAt": "2026-11-27",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": true,
       "possibleDuplicateIds": [
         "pozzo-6d44d186805c"
@@ -9744,7 +9749,7 @@
       "rent": 950,
       "occupied": false,
       "source": "https://www.iadfrance.fr/annonce/appartement-vente-4-pieces-granville-100m2/r2089782",
-      "photo": "https://images.iadfrance.fr/property/broadcast/2026/08/11/019ff0efd63081f50e16bf56e68e38ae.jpg?format=jpeg&width=1200",
+      "photo": "https://images.iadfrance.fr/property/broadcast/2026/11/27/01a21eba4e76c484bd4f946959dffcb5.jpg?format=jpeg&width=1200",
       "description": "Appartement de 100 m² et 4 pièces à Granville. Caractéristiques extraites de la fiche de l’agence ; les montants de travaux et de loyer sont des hypothèses de simulation.",
       "assets": [
         "Balcon annoncé",
@@ -9759,16 +9764,21 @@
       ],
       "priority": 20,
       "archived": false,
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "automated": true,
       "estimateBasis": "Barème indicatif, non devisé : loyer 13–17 €/m²/mois plafonné à 950 € ; travaux 250 ou 1 100 €/m² selon état/DPE, plus 15 % d’imprévus.",
-      "firstSeenAt": "2026-11-27T17:19:03.717Z",
+      "aliases": [
+        "https://iadfrance.fr/annonce/appartement-vente-4-pieces-granville-100m2/r2089782"
+      ],
+      "firstSeenAt": "2026-11-27",
+      "mergedIds": [],
+      "listingSources": [],
       "possibleDuplicate": false,
       "possibleDuplicateIds": []
     }
   ],
   "deduplication": {
-    "checkedAt": "2026-11-27T17:19:03.717Z",
+    "checkedAt": "2026-11-28T16:01:29.362Z",
     "confirmedMerged": 0,
     "hiddenCandidates": 36
   }
